@@ -73,7 +73,7 @@ h2, h3 { color:#fff; font-weight:700; }
   background:var(--bl-card); border:1px solid #282828; border-radius:14px;
   padding:14px 16px;
 }
-[data-testid="stMetricValue"] { color:var(--bl-yellow); font-weight:800; }
+[data-testid="stMetricValue"] { color:#2ecc71; font-weight:800; }
 [data-testid="stMetricLabel"] { color:var(--bl-muted); }
 
 /* tabs -> Blinkit-style pill/underline */
@@ -228,9 +228,9 @@ with tabs[0]:
                       key=lambda x: x[1], default=("—", 0))
 
     c1, c2, c3 = st.columns(3)
-    c1.metric("Reviews analyzed", f"{total:,}")
-    c2.metric("Category-barrier related", f"{barrier_related:,}")
-    c3.metric("Most frustrated segment", top_segment[0].replace("_", " ").title())
+    c1.metric("Reviews analyzed", f"{len(clean):,}")
+    c2.metric("Sources", f"{n_sources}")
+    c3.metric("Structured-labeled", f"{len(lab):,}")
 
     # Charts row
     sent = ins.get("sentiments", {})

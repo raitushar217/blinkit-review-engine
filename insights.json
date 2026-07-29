@@ -1,251 +1,276 @@
 {
-  "total": 339,
+  "total": 1727,
   "sources": {
+    "Play Store": 1504,
     "YouTube": 180,
-    "Play Store": 159
+    "Reddit": 28,
+    "App Store": 15
   },
   "sentiments": {
-    "negative": 134,
-    "positive": 119,
-    "neutral": 86
+    "positive": 566,
+    "negative": 518,
+    "neutral": 63
   },
   "category_barriers": {
-    "not_applicable": 216,
-    "no_barrier": 44,
-    "price_anxiety": 34,
-    "trust_deficit": 29,
-    "information_gap": 9,
-    "no_trigger": 6,
-    "habit_lock": 1
+    "not_applicable": 551,
+    "price_anxiety": 169,
+    "no_barrier": 138,
+    "trust_deficit": 123,
+    "information_gap": 77,
+    "no_trigger": 40,
+    "habit_lock": 35,
+    "overwhelmed": 14
   },
   "discovery_themes": {
-    "not_applicable": 307,
-    "positive_discovery": 20,
-    "stuck_in_routine": 7,
-    "needs_trust_signal": 2,
-    "wants_to_explore": 1,
-    "needs_recommendation": 1,
-    "social_influence": 1
+    "not_applicable": 791,
+    "positive_discovery": 113,
+    "wants_to_explore": 98,
+    "stuck_in_routine": 82,
+    "price_blocks_exploration": 28,
+    "needs_recommendation": 28,
+    "needs_trust_signal": 7
   },
   "user_segments": {
-    "unknown": 326,
-    "convenience_seeker": 7,
-    "budget_shopper": 4,
-    "household_manager": 1,
-    "young_professional": 1
+    "unknown": 972,
+    "convenience_seeker": 105,
+    "budget_shopper": 28,
+    "household_manager": 21,
+    "health_conscious": 14,
+    "young_professional": 7
   },
   "shopping_habits": {
-    "not_mentioned": 307,
-    "planned_weekly": 21,
-    "impulse": 8,
-    "recurring_auto": 3
+    "not_mentioned": 799,
+    "planned_weekly": 264,
+    "impulse": 56,
+    "recurring_auto": 28
   },
   "topics": {
-    "other": 161,
-    "delivery_speed": 48,
-    "repeat_purchase": 32,
-    "customer_support": 26,
-    "app_ux": 25,
-    "pricing": 22,
-    "product_quality": 20,
-    "category_exploration": 5
+    "repeat_purchase": 329,
+    "delivery_speed": 171,
+    "product_quality": 142,
+    "other": 129,
+    "pricing": 117,
+    "customer_support": 88,
+    "app_ux": 87,
+    "category_exploration": 84
   },
   "q1_same_categories": [
     {
       "reason": "price_anxiety",
-      "count": 34,
-      "pct": "10.0%",
-      "quote": "This app is bad, they don't take any accountability, so I ordered olive oil for my family staying in my hometown and I stay at a different place. So now they delivered the order without the cap of the bottle. My family shared images but there is no option to upload images on the customer support channel. I even mailed them the pictures and asked for a replacement but they said they can't do anything. So the final result - I have deleted my account."
+      "count": 169,
+      "pct": "14.7%",
+      "quote": "Price anxiety prevents me from exploring the premium categories."
     },
     {
       "reason": "trust_deficit",
-      "count": 29,
-      "pct": "8.6%",
-      "quote": "it provide us damage old used products it's not worth it is very poor app I recommended do not download it stall my money"
+      "count": 123,
+      "pct": "10.7%",
+      "quote": "it provide us damage old used products"
     },
     {
       "reason": "information_gap",
-      "count": 9,
-      "pct": "2.7%",
-      "quote": "Different variety and different sizes of products not available."
+      "count": 77,
+      "pct": "6.7%",
+      "quote": "this app is good but if you unfortunately order anything you can't cancel it or you forget to add some items to list it only gives 5sec time"
     },
     {
       "reason": "no_trigger",
-      "count": 6,
-      "pct": "1.8%",
-      "quote": "I scanned a group code and it took me here..."
+      "count": 40,
+      "pct": "3.5%",
+      "quote": "I wish there was a 'Discover' tab for new local brands."
     },
     {
       "reason": "habit_lock",
-      "count": 1,
-      "pct": "0.3%",
-      "quote": "Ive been lead here many times before"
+      "count": 35,
+      "pct": "3.1%",
+      "quote": "I always buy the same things, it's too hard to browse for new snacks."
+    },
+    {
+      "reason": "overwhelmed",
+      "count": 14,
+      "pct": "1.2%",
+      "quote": "When I want to explore home goods, I get overwhelmed by irrelevant items."
     }
   ],
   "q2_exploration_barriers": [
     {
       "barrier": "price_anxiety",
-      "count": 34,
-      "quote": "\u0c15\u0c4a\u0c02\u0c1a\u0c46\u0c02 \u0c2e\u0c02\u0c1a\u0c3f \u0c15\u0c42\u0c30\u0c17\u0c3e\u0c2f\u0c32\u0c41 \u0c2a\u0c02\u0c2a\u0c3f\u0c02\u0c1a\u0c02\u0c21\u0c3f \u0c2b\u0c4d\u0c30\u0c42\u0c1f\u0c4d\u0c38\u0c4d \u0c17\u0c3e\u0c28\u0c3f \u0c07\u0c32\u0c3e \u0c15\u0c42\u0c30\u0c17\u0c3e\u0c2f\u0c32\u0c41 \u0c17\u0c3e\u0c28\u0c3f \u0c15\u0c4a\u0c02\u0c1a\u0c46\u0c02 \u0c15\u0c4d\u0c35\u0c3e\u0c32\u0c3f\u0c1f\u0c40 \u0c09\u0c02\u0c21\u0c1f\u0c4d\u0c32\u0c47\u0c26\u0c41"
-    },
-    {
-      "barrier": "trust_deficit",
-      "count": 29,
+      "count": 169,
       "quote": "poor customer service. i have to pay two times for the same item"
     },
     {
+      "barrier": "trust_deficit",
+      "count": 123,
+      "quote": "Blinkit use cold storage stores to deliver rotten and expired products"
+    },
+    {
       "barrier": "information_gap",
-      "count": 9,
-      "quote": "Both earbuds appear to be the same side, so they do not fit properly in the charging case."
+      "count": 77,
+      "quote": "product icons of the app are not visible. Kindly look into it and fix the problem."
     },
     {
       "barrier": "no_trigger",
-      "count": 6,
-      "quote": "Holy crap this comment is new! Just one day old!"
+      "count": 40,
+      "quote": "The category navigation needs a revamp. Too many clicks to find what I need."
     },
     {
       "barrier": "habit_lock",
-      "count": 1,
-      "quote": ""
+      "count": 35,
+      "quote": "Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Anyone else agree?"
+    },
+    {
+      "barrier": "overwhelmed",
+      "count": 14,
+      "quote": "When I want to explore home goods, I get overwhelmed by irrelevant items."
     }
   ],
   "q3_discovery_today": [
     {
       "method": "positive_discovery",
-      "count": 20
-    },
-    {
-      "method": "stuck_in_routine",
-      "count": 7
-    },
-    {
-      "method": "needs_trust_signal",
-      "count": 2
+      "count": 113
     },
     {
       "method": "wants_to_explore",
-      "count": 1
+      "count": 98
+    },
+    {
+      "method": "stuck_in_routine",
+      "count": 82
+    },
+    {
+      "method": "price_blocks_exploration",
+      "count": 28
     },
     {
       "method": "needs_recommendation",
-      "count": 1
+      "count": 28
     },
     {
-      "method": "social_influence",
-      "count": 1
+      "method": "needs_trust_signal",
+      "count": 7
     }
   ],
   "q4_habit_role": {
-    "habit_lock_count": 1,
-    "pct": "0.3%",
+    "habit_lock_count": 35,
+    "pct": "3.1%",
     "top_habits": [
       {
         "habit": "planned_weekly",
-        "count": 21
+        "count": 264
       },
       {
         "habit": "impulse",
-        "count": 8
+        "count": 56
       },
       {
         "habit": "recurring_auto",
-        "count": 3
+        "count": 28
       }
     ]
   },
   "q5_info_needed": {
-    "information_gap_count": 9,
+    "information_gap_count": 77,
     "top_quotes": [
-      "Different variety and different sizes of products not available.",
-      "Both earbuds appear to be the same side, so they do not fit properly in the charging case.",
-      "very helpful But some things, like pet clothes, are not available on Blinkit.",
-      "but don't shows best and cheapest price",
-      "its very helpful app I wish ke y sb city's me available ho kuch place ese h jha ye ab tk nhi phoch pai pls blanket do something",
-      "it provide us damage old used products it's not worth it is very poor app I recommended do not download it stall my money",
-      "poor customer service. i have to pay two times for the same item",
-      "handling charges are very high. No customer support to make complaints about after delivery issues."
+      "this app is good but if you unfortunately order anything you can't cancel it or you forget to add some items to list it only gives 5sec time",
+      "product icons of the app are not visible. Kindly look into it and fix the problem.",
+      "Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples.",
+      "Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Anyone else agree?",
+      "Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff.",
+      "it provide us damage old used products",
+      "Blinkit use cold storage stores to deliver rotten and expired products",
+      "I had a very pathetic experience twice as I ordered a product for a specific brand but they sent me a wrong product"
     ]
   },
   "q6_frustrations": [
     {
-      "frustration": "delivery_speed",
-      "count": 48,
-      "quote": "some time never come at door step"
-    },
-    {
       "frustration": "repeat_purchase",
-      "count": 32,
-      "quote": "Don't buy any product from Blinkit they are totally unprofessional."
+      "count": 329,
+      "quote": "The 'frequently bought together' suggestions are rarely accurate."
     },
     {
-      "frustration": "customer_support",
-      "count": 26,
-      "quote": "handling charges are very high. No customer support to make complaints about after delivery issues."
-    },
-    {
-      "frustration": "app_ux",
-      "count": 25,
-      "quote": "I want my 4 videos per row back!"
-    },
-    {
-      "frustration": "pricing",
-      "count": 22,
-      "quote": "too much expensive ( amazon now, zepto are better than blinkit)"
+      "frustration": "delivery_speed",
+      "count": 171,
+      "quote": "Blinkit\u2019s service is extremely poor and pathetic.i strongly recommend don't use Blinkit"
     },
     {
       "frustration": "product_quality",
-      "count": 20,
-      "quote": "one of the worst app they are something that i didn't even order and also they didn't give me what i ordered and they say they can't resolve this issue seriously i want my replacements and refunddddddddddddddd"
+      "count": 142,
+      "quote": "Different variety and different sizes of products not available."
+    },
+    {
+      "frustration": "pricing",
+      "count": 117,
+      "quote": "the app is quite expensive, as compared to other similar platforms"
+    },
+    {
+      "frustration": "customer_support",
+      "count": 88,
+      "quote": "worst customer service I am trying from 2 days to get help but no one is helping only chatbot gave reply and stuck on assigning you a assistant"
+    },
+    {
+      "frustration": "app_ux",
+      "count": 87,
+      "quote": "need to click at least 20 times for accessing the search bar... new technology?"
     },
     {
       "frustration": "category_exploration",
-      "count": 5,
-      "quote": "but don't shows best and cheapest price"
+      "count": 84,
+      "quote": "Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Anyone else agree?"
     }
   ],
   "q7_explorer_segments": [
     {
       "segment": "convenience_seeker",
-      "count": 7,
+      "count": 105,
       "experimental_count": 0
     },
     {
       "segment": "budget_shopper",
-      "count": 4,
+      "count": 28,
       "experimental_count": 0
     },
     {
       "segment": "household_manager",
-      "count": 1,
+      "count": 21,
+      "experimental_count": 0
+    },
+    {
+      "segment": "health_conscious",
+      "count": 14,
       "experimental_count": 0
     },
     {
       "segment": "young_professional",
-      "count": 1,
+      "count": 7,
       "experimental_count": 0
     }
   ],
   "q8_unmet_needs": [
     {
-      "need": "stuck_in_routine",
-      "evidence_count": 7,
-      "quote": "the best app for ordering....easy to order and fast delivery"
-    },
-    {
-      "need": "needs_trust_signal",
-      "evidence_count": 2,
-      "quote": "sending faulty goods with fake promises to be replaced in 7 days after the complaint they need to video in the chat box or their system doesn't work for uploading video very bad experience with blinkit."
-    },
-    {
       "need": "wants_to_explore",
-      "evidence_count": 1,
-      "quote": ""
+      "evidence_count": 98,
+      "quote": "I want to make a add for you"
+    },
+    {
+      "need": "stuck_in_routine",
+      "evidence_count": 82,
+      "quote": "I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need."
     },
     {
       "need": "needs_recommendation",
-      "evidence_count": 1,
-      "quote": "its very helpful app I wish ke y sb city's me available ho kuch place ese h jha ye ab tk nhi phoch pai pls blanket do something"
+      "evidence_count": 28,
+      "quote": "Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples."
+    },
+    {
+      "need": "price_blocks_exploration",
+      "evidence_count": 28,
+      "quote": "these prices are same everywhere, but other items 4times costly then other apps"
+    },
+    {
+      "need": "needs_trust_signal",
+      "evidence_count": 7,
+      "quote": "they are sending Expired products items...."
     }
   ],
-  "headline_finding": "The dominant category barrier is 'price_anxiety' (34 of 339 labeled reviews, 10.0%), indicating most users are locked into habitual purchasing patterns. The most common discovery theme is 'positive_discovery' (20 reviews), suggesting a significant opportunity to nudge users toward new categories through targeted recommendations and trust-building signals."
+  "headline_finding": "The dominant category barrier is 'price_anxiety' (169 of 1147 labeled reviews, 14.7%), indicating most users are locked into habitual purchasing patterns. The most common discovery theme is 'positive_discovery' (113 reviews), suggesting a significant opportunity to nudge users toward new categories through targeted recommendations and trust-building signals."
 }

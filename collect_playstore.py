@@ -37,7 +37,7 @@ def collect(count=500):
 
 
 if __name__ == '__main__':
-    rows = collect(500)
+    rows = collect(5000)
     os.makedirs('data', exist_ok=True)
     with open('data/raw_playstore.csv', 'w', newline='',
               encoding='utf-8') as f:

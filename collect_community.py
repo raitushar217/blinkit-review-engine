@@ -25,7 +25,7 @@ HEADERS = {"User-Agent": UA}
 BASE_URL = "https://www.trustpilot.com/review/blinkit.com"
 OUT = "community_reviews.csv"
 
-MAX_PAGES = 10
+MAX_PAGES = 50
 MIN_WORDS = 5
 
 
