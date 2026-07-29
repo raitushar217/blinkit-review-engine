@@ -181,7 +181,7 @@ META_BY_ID = {r.review_id: (r.source, r.rating) for r in clean.itertuples()}
 
 
 @st.cache_resource
-def get_retriever():
+def get_retriever_v3():
     """Built lazily (and cached) on the FIRST search, so page load never runs the
     heavy scipy/scikit-learn TF-IDF fit — that eager build was crashing the app."""
     return build_retriever(clean["text"].astype(str).tolist())
@@ -474,7 +474,7 @@ with tabs[3]:
     topk = st.slider("How many reviews to retrieve", 3, 15, 6)
 
     if query:
-        RETRIEVER_MODE, SEARCH = get_retriever()
+        RETRIEVER_MODE, SEARCH = get_retriever_v3()
         idx, sims = SEARCH(query, topk)
         retrieved = clean.iloc[idx].copy()
         retrieved["score"] = sims[idx]
