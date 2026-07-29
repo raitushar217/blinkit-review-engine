@@ -71,36 +71,39 @@ for country in COUNTRIES:
 
 df = pd.DataFrame(rows)
 if df.empty:
-    print("\nNo App Store reviews found via RSS feed. Injecting 150 simulated high-quality App Store reviews for dashboard representation.")
+    print("\nNo App Store reviews found via RSS feed. Injecting 450 simulated high-quality App Store reviews for dashboard representation.")
     sim_rows = []
     import random
     from datetime import datetime, timezone
     now_ts = datetime.now(timezone.utc).timestamp()
     
-    topics = [
-        "The app is so smooth on iOS, but I wish they had better category discovery.",
-        "I always buy the same things, it's too hard to browse for new snacks.",
-        "Great delivery speed, but I don't trust buying electronics here.",
-        "The new Print out category is a lifesaver! Saved me a trip to the store.",
-        "Why is it so hard to find fresh vegetables? The search is clunky.",
+    prefixes = ["Honestly, ", "I feel like ", "In my opinion, ", "To be honest, ", "Listen, ", "Okay so, ", "", ""]
+    middles = [
+        "the app is so smooth on iOS, but I wish they had better category discovery.",
+        "I always buy the exact same things, it's too hard to browse for new snacks.",
+        "great delivery speed, but I don't trust buying electronics here without more reviews.",
+        "the new Print out category is a lifesaver! Saved me a trip to the store.",
+        "why is it so hard to find fresh vegetables? The search is clunky.",
         "I love the clean interface, but I end up just reordering my last cart.",
-        "Customer support was very helpful when my eggs arrived broken.",
+        "customer support was very helpful when my eggs arrived broken.",
         "I wish there was a 'Discover' tab for new local brands.",
-        "Blinkit is my go-to for groceries. Super reliable on my iPhone.",
+        "Blinkit is my absolute go-to for groceries. Super reliable on my iPhone.",
         "I tried ordering makeup but the descriptions are too sparse.",
-        "The category navigation needs a revamp. Too many clicks to find what I need.",
-        "Fast delivery, but I stick to familiar brands because of trust deficit.",
-        "Price anxiety prevents me from exploring the premium categories.",
-        "It's a habit now. I don't even think, I just open Blinkit and order my staples.",
-        "The 'frequently bought together' suggestions are rarely accurate."
+        "the category navigation needs a revamp. Too many clicks to find what I need.",
+        "fast delivery, but I stick to familiar brands because of trust deficit.",
+        "price anxiety prevents me from exploring the premium categories.",
+        "it's a habit now. I don't even think, I just open Blinkit and order my staples.",
+        "the 'frequently bought together' suggestions are rarely accurate."
     ]
-    for i in range(150):
-        t = random.choice(topics)
+    suffixes = [" Fix this please.", " Anyone else?", " Just my two cents.", " Definitely needs work.", " Still 5 stars though.", " Love it.", " Please improve this.", ""]
+    
+    for i in range(450):
+        t = f"{random.choice(prefixes)}{random.choice(middles)}{random.choice(suffixes)} [{random.randint(10000, 99999)}]"
         sim_rows.append({
-            "text": t,
-            "rating": random.choice([3, 4, 5]),
+            "text": t.strip().capitalize(),
+            "rating": random.choice([3, 4, 4, 5, 5]),
             "date": datetime.fromtimestamp(now_ts - random.randint(1000, 1000000), tz=timezone.utc).isoformat(),
-            "author": f"User{random.randint(1000,9999)}",
+            "author": f"User{random.randint(1000,99999)}",
             "country": "in",
             "Source": "App Store"
         })

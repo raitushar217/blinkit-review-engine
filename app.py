@@ -73,7 +73,7 @@ h2, h3 { color:#fff; font-weight:700; }
   background:var(--bl-card); border:1px solid #282828; border-radius:14px;
   padding:14px 16px;
 }
-[data-testid="stMetricValue"] { color:#2ecc71; font-weight:800; }
+[data-testid="stMetricValue"] { color:var(--bl-yellow); font-weight:800; }
 [data-testid="stMetricLabel"] { color:var(--bl-muted); }
 
 /* tabs -> Blinkit-style pill/underline */
@@ -126,18 +126,18 @@ hr { border-color:#282828; }
 # DATA
 # ----------------------------------------------------------------------------
 @st.cache_data
-def load_insights_v2():
+def load_insights_v3():
     with open("insights.json", encoding="utf-8") as f:
         return json.load(f)
 
 
 @st.cache_data
-def load_reviews_v2():
+def load_reviews_v3():
     return pd.read_csv("reviews_labeled.csv")
 
 
 @st.cache_data
-def load_clean_v2():
+def load_clean_v3():
     return pd.read_csv("reviews_clean.csv")
 
 
@@ -173,9 +173,9 @@ def build_retriever(texts):
     return "lexical (TF-IDF)", search
 
 
-ins = load_insights_v2()
-lab = load_reviews_v2()
-clean = load_clean_v2()
+ins = load_insights_v3()
+lab = load_reviews_v3()
+clean = load_clean_v3()
 TEXT_BY_ID = dict(zip(clean["review_id"], clean["text"]))
 META_BY_ID = {r.review_id: (r.source, r.rating) for r in clean.itertuples()}
 
