@@ -126,18 +126,18 @@ hr { border-color:#282828; }
 # DATA
 # ----------------------------------------------------------------------------
 @st.cache_data
-def load_insights():
+def load_insights_v2():
     with open("insights.json", encoding="utf-8") as f:
         return json.load(f)
 
 
 @st.cache_data
-def load_reviews():
+def load_reviews_v2():
     return pd.read_csv("reviews_labeled.csv")
 
 
 @st.cache_data
-def load_clean():
+def load_clean_v2():
     return pd.read_csv("reviews_clean.csv")
 
 
@@ -173,9 +173,9 @@ def build_retriever(texts):
     return "lexical (TF-IDF)", search
 
 
-ins = load_insights()
-lab = load_reviews()
-clean = load_clean()
+ins = load_insights_v2()
+lab = load_reviews_v2()
+clean = load_clean_v2()
 TEXT_BY_ID = dict(zip(clean["review_id"], clean["text"]))
 META_BY_ID = {r.review_id: (r.source, r.rating) for r in clean.itertuples()}
 
