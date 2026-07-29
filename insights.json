@@ -1,0 +1,251 @@
+{
+  "total": 339,
+  "sources": {
+    "YouTube": 180,
+    "Play Store": 159
+  },
+  "sentiments": {
+    "negative": 134,
+    "positive": 119,
+    "neutral": 86
+  },
+  "category_barriers": {
+    "not_applicable": 216,
+    "no_barrier": 44,
+    "price_anxiety": 34,
+    "trust_deficit": 29,
+    "information_gap": 9,
+    "no_trigger": 6,
+    "habit_lock": 1
+  },
+  "discovery_themes": {
+    "not_applicable": 307,
+    "positive_discovery": 20,
+    "stuck_in_routine": 7,
+    "needs_trust_signal": 2,
+    "wants_to_explore": 1,
+    "needs_recommendation": 1,
+    "social_influence": 1
+  },
+  "user_segments": {
+    "unknown": 326,
+    "convenience_seeker": 7,
+    "budget_shopper": 4,
+    "household_manager": 1,
+    "young_professional": 1
+  },
+  "shopping_habits": {
+    "not_mentioned": 307,
+    "planned_weekly": 21,
+    "impulse": 8,
+    "recurring_auto": 3
+  },
+  "topics": {
+    "other": 161,
+    "delivery_speed": 48,
+    "repeat_purchase": 32,
+    "customer_support": 26,
+    "app_ux": 25,
+    "pricing": 22,
+    "product_quality": 20,
+    "category_exploration": 5
+  },
+  "q1_same_categories": [
+    {
+      "reason": "price_anxiety",
+      "count": 34,
+      "pct": "10.0%",
+      "quote": "This app is bad, they don't take any accountability, so I ordered olive oil for my family staying in my hometown and I stay at a different place. So now they delivered the order without the cap of the bottle. My family shared images but there is no option to upload images on the customer support channel. I even mailed them the pictures and asked for a replacement but they said they can't do anything. So the final result - I have deleted my account."
+    },
+    {
+      "reason": "trust_deficit",
+      "count": 29,
+      "pct": "8.6%",
+      "quote": "it provide us damage old used products it's not worth it is very poor app I recommended do not download it stall my money"
+    },
+    {
+      "reason": "information_gap",
+      "count": 9,
+      "pct": "2.7%",
+      "quote": "Different variety and different sizes of products not available."
+    },
+    {
+      "reason": "no_trigger",
+      "count": 6,
+      "pct": "1.8%",
+      "quote": "I scanned a group code and it took me here..."
+    },
+    {
+      "reason": "habit_lock",
+      "count": 1,
+      "pct": "0.3%",
+      "quote": "Ive been lead here many times before"
+    }
+  ],
+  "q2_exploration_barriers": [
+    {
+      "barrier": "price_anxiety",
+      "count": 34,
+      "quote": "\u0c15\u0c4a\u0c02\u0c1a\u0c46\u0c02 \u0c2e\u0c02\u0c1a\u0c3f \u0c15\u0c42\u0c30\u0c17\u0c3e\u0c2f\u0c32\u0c41 \u0c2a\u0c02\u0c2a\u0c3f\u0c02\u0c1a\u0c02\u0c21\u0c3f \u0c2b\u0c4d\u0c30\u0c42\u0c1f\u0c4d\u0c38\u0c4d \u0c17\u0c3e\u0c28\u0c3f \u0c07\u0c32\u0c3e \u0c15\u0c42\u0c30\u0c17\u0c3e\u0c2f\u0c32\u0c41 \u0c17\u0c3e\u0c28\u0c3f \u0c15\u0c4a\u0c02\u0c1a\u0c46\u0c02 \u0c15\u0c4d\u0c35\u0c3e\u0c32\u0c3f\u0c1f\u0c40 \u0c09\u0c02\u0c21\u0c1f\u0c4d\u0c32\u0c47\u0c26\u0c41"
+    },
+    {
+      "barrier": "trust_deficit",
+      "count": 29,
+      "quote": "poor customer service. i have to pay two times for the same item"
+    },
+    {
+      "barrier": "information_gap",
+      "count": 9,
+      "quote": "Both earbuds appear to be the same side, so they do not fit properly in the charging case."
+    },
+    {
+      "barrier": "no_trigger",
+      "count": 6,
+      "quote": "Holy crap this comment is new! Just one day old!"
+    },
+    {
+      "barrier": "habit_lock",
+      "count": 1,
+      "quote": ""
+    }
+  ],
+  "q3_discovery_today": [
+    {
+      "method": "positive_discovery",
+      "count": 20
+    },
+    {
+      "method": "stuck_in_routine",
+      "count": 7
+    },
+    {
+      "method": "needs_trust_signal",
+      "count": 2
+    },
+    {
+      "method": "wants_to_explore",
+      "count": 1
+    },
+    {
+      "method": "needs_recommendation",
+      "count": 1
+    },
+    {
+      "method": "social_influence",
+      "count": 1
+    }
+  ],
+  "q4_habit_role": {
+    "habit_lock_count": 1,
+    "pct": "0.3%",
+    "top_habits": [
+      {
+        "habit": "planned_weekly",
+        "count": 21
+      },
+      {
+        "habit": "impulse",
+        "count": 8
+      },
+      {
+        "habit": "recurring_auto",
+        "count": 3
+      }
+    ]
+  },
+  "q5_info_needed": {
+    "information_gap_count": 9,
+    "top_quotes": [
+      "Different variety and different sizes of products not available.",
+      "Both earbuds appear to be the same side, so they do not fit properly in the charging case.",
+      "very helpful But some things, like pet clothes, are not available on Blinkit.",
+      "but don't shows best and cheapest price",
+      "its very helpful app I wish ke y sb city's me available ho kuch place ese h jha ye ab tk nhi phoch pai pls blanket do something",
+      "it provide us damage old used products it's not worth it is very poor app I recommended do not download it stall my money",
+      "poor customer service. i have to pay two times for the same item",
+      "handling charges are very high. No customer support to make complaints about after delivery issues."
+    ]
+  },
+  "q6_frustrations": [
+    {
+      "frustration": "delivery_speed",
+      "count": 48,
+      "quote": "some time never come at door step"
+    },
+    {
+      "frustration": "repeat_purchase",
+      "count": 32,
+      "quote": "Don't buy any product from Blinkit they are totally unprofessional."
+    },
+    {
+      "frustration": "customer_support",
+      "count": 26,
+      "quote": "handling charges are very high. No customer support to make complaints about after delivery issues."
+    },
+    {
+      "frustration": "app_ux",
+      "count": 25,
+      "quote": "I want my 4 videos per row back!"
+    },
+    {
+      "frustration": "pricing",
+      "count": 22,
+      "quote": "too much expensive ( amazon now, zepto are better than blinkit)"
+    },
+    {
+      "frustration": "product_quality",
+      "count": 20,
+      "quote": "one of the worst app they are something that i didn't even order and also they didn't give me what i ordered and they say they can't resolve this issue seriously i want my replacements and refunddddddddddddddd"
+    },
+    {
+      "frustration": "category_exploration",
+      "count": 5,
+      "quote": "but don't shows best and cheapest price"
+    }
+  ],
+  "q7_explorer_segments": [
+    {
+      "segment": "convenience_seeker",
+      "count": 7,
+      "experimental_count": 0
+    },
+    {
+      "segment": "budget_shopper",
+      "count": 4,
+      "experimental_count": 0
+    },
+    {
+      "segment": "household_manager",
+      "count": 1,
+      "experimental_count": 0
+    },
+    {
+      "segment": "young_professional",
+      "count": 1,
+      "experimental_count": 0
+    }
+  ],
+  "q8_unmet_needs": [
+    {
+      "need": "stuck_in_routine",
+      "evidence_count": 7,
+      "quote": "the best app for ordering....easy to order and fast delivery"
+    },
+    {
+      "need": "needs_trust_signal",
+      "evidence_count": 2,
+      "quote": "sending faulty goods with fake promises to be replaced in 7 days after the complaint they need to video in the chat box or their system doesn't work for uploading video very bad experience with blinkit."
+    },
+    {
+      "need": "wants_to_explore",
+      "evidence_count": 1,
+      "quote": ""
+    },
+    {
+      "need": "needs_recommendation",
+      "evidence_count": 1,
+      "quote": "its very helpful app I wish ke y sb city's me available ho kuch place ese h jha ye ab tk nhi phoch pai pls blanket do something"
+    }
+  ],
+  "headline_finding": "The dominant category barrier is 'price_anxiety' (34 of 339 labeled reviews, 10.0%), indicating most users are locked into habitual purchasing patterns. The most common discovery theme is 'positive_discovery' (20 reviews), suggesting a significant opportunity to nudge users toward new categories through targeted recommendations and trust-building signals."
+}
