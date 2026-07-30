@@ -126,18 +126,18 @@ hr { border-color:#282828; }
 # DATA
 # ----------------------------------------------------------------------------
 @st.cache_data
-def load_insights_v3():
+def load_insights_v4():
     with open("insights.json", encoding="utf-8") as f:
         return json.load(f)
 
 
 @st.cache_data
-def load_reviews_v3():
+def load_reviews_v4():
     return pd.read_csv("reviews_labeled.csv")
 
 
 @st.cache_data
-def load_clean_v3():
+def load_clean_v4():
     return pd.read_csv("reviews_clean.csv")
 
 
@@ -173,15 +173,15 @@ def build_retriever(texts):
     return "lexical (TF-IDF)", search
 
 
-ins = load_insights_v3()
-lab = load_reviews_v3()
-clean = load_clean_v3()
+ins = load_insights_v4()
+lab = load_reviews_v4()
+clean = load_clean_v4()
 TEXT_BY_ID = dict(zip(clean["review_id"], clean["text"]))
 META_BY_ID = {r.review_id: (r.source, r.rating) for r in clean.itertuples()}
 
 
 @st.cache_resource
-def get_retriever_v3():
+def get_retriever_v4():
     """Built lazily (and cached) on the FIRST search, so page load never runs the
     heavy scipy/scikit-learn TF-IDF fit — that eager build was crashing the app."""
     return build_retriever(clean["text"].astype(str).tolist())
@@ -292,7 +292,103 @@ with tabs[1]:
         "q7_explorer_segments", "q8_unmet_needs",
     ]
 
+    def generate_finding(question, data_key, data):
+        """Generate a 2-3 sentence finding using Groq if available, else from data."""
+        key = os.environ.get("GROQ_API_KEY")
+        if not key:
+            return _static_finding(data_key, data)
+        try:
+            from groq import Groq
+            prompt = (
+                f"You are a product researcher. Based on this data from Blinkit app reviews, "
+                f"write a 2-3 sentence research finding answering: '{question}'\n\n"
+                f"Data: {json.dumps(data, indent=2, default=str)}\n\n"
+                f"Be specific, cite numbers from the data, and separate symptom from root cause. "
+                f"Do NOT use markdown. Write plain text only."
+            )
+            ans = Groq(api_key=key).chat.completions.create(
+                model="llama-3.1-8b-instant", temperature=0.2,
+                messages=[{"role": "user", "content": prompt}]
+            ).choices[0].message.content
+            return ans.strip()
+        except Exception:
+            return _static_finding(data_key, data)
 
+    def _static_finding(data_key, data):
+        """Fallback static findings when Groq is unavailable."""
+        if data_key == "q1_same_categories" and isinstance(data, list) and data:
+            top = data[0]
+            return (f"The primary reason is '{top['reason']}' with {top['count']} reviews "
+                    f"({top['pct']}). Users form purchasing habits that lock them into "
+                    f"familiar categories, rarely deviating from their established routine.")
+        if data_key == "q2_exploration_barriers" and isinstance(data, list) and data:
+            barriers = ", ".join(f"{d['barrier']} ({d['count']})" for d in data[:3])
+            return f"Top barriers: {barriers}. These compound to create a friction wall against exploration."
+        if data_key == "q3_discovery_today" and isinstance(data, list) and data:
+            methods = ", ".join(f"{d['method']} ({d['count']})" for d in data[:3])
+            return f"Current discovery methods: {methods}."
+        if data_key == "q4_habit_role" and isinstance(data, dict):
+            return (f"Habit lock affects {data.get('habit_lock_count', 0)} reviews ({data.get('pct', '?')}). "
+                    f"Routines dominate shopping behavior on Blinkit.")
+        if data_key == "q5_info_needed" and isinstance(data, dict):
+            return (f"{data.get('information_gap_count', 0)} reviews cite an information gap. "
+                    f"Users need trust signals before trying new categories.")
+        if data_key == "q6_frustrations" and isinstance(data, list) and data:
+            top = data[0]
+            return f"The most common frustration area is '{top['frustration']}' with {top['count']} reviews."
+        if data_key == "q7_explorer_segments" and isinstance(data, list) and data:
+            top = data[0]
+            return (f"'{top['segment']}' users are most likely to experiment ({top['experimental_count']} "
+                    f"experimental out of {top['count']} total).")
+        if data_key == "q8_unmet_needs" and isinstance(data, list) and data:
+            top = data[0]
+            return (f"The most common unmet need is '{top['need']}' with {top['evidence_count']} "
+                    f"supporting reviews.")
+        return "See the data breakdown below."
+
+    def _get_quotes_from_data(data_key, data):
+        """Extract quotes from the question data."""
+        quotes = []
+        if data_key in ("q1_same_categories", "q2_exploration_barriers", "q6_frustrations"):
+            for item in (data if isinstance(data, list) else []):
+                q_text = item.get("quote", "")
+                if q_text:
+                    quotes.append(q_text)
+        elif data_key == "q8_unmet_needs":
+            for item in (data if isinstance(data, list) else []):
+                q_text = item.get("quote", "")
+                if q_text:
+                    quotes.append(q_text)
+        elif data_key == "q5_info_needed" and isinstance(data, dict):
+            quotes = data.get("top_quotes", [])[:3]
+        return quotes[:3]
+
+    def _get_stat_line(data_key, data):
+        """Build a stat line for each question."""
+        if data_key == "q1_same_categories" and isinstance(data, list):
+            total_cited = sum(d["count"] for d in data)
+            return f"{total_cited} reviews cite specific category-lock reasons"
+        if data_key == "q2_exploration_barriers" and isinstance(data, list):
+            total_cited = sum(d["count"] for d in data)
+            return f"{total_cited} reviews identify exploration barriers"
+        if data_key == "q3_discovery_today" and isinstance(data, list):
+            total_cited = sum(d["count"] for d in data)
+            return f"{total_cited} reviews describe current discovery methods"
+        if data_key == "q4_habit_role" and isinstance(data, dict):
+            return (f"{data.get('habit_lock_count', 0)} reviews show habit lock-in "
+                    f"({data.get('pct', '?')} of labeled set)")
+        if data_key == "q5_info_needed" and isinstance(data, dict):
+            return f"{data.get('information_gap_count', 0)} reviews cite information gaps"
+        if data_key == "q6_frustrations" and isinstance(data, list):
+            total_cited = sum(d["count"] for d in data)
+            return f"{total_cited} reviews across {len(data)} frustration topics"
+        if data_key == "q7_explorer_segments" and isinstance(data, list):
+            total_exp = sum(d["experimental_count"] for d in data)
+            return f"{total_exp} reviews from experimentally-inclined users"
+        if data_key == "q8_unmet_needs" and isinstance(data, list):
+            total_cited = sum(d["evidence_count"] for d in data)
+            return f"{total_cited} reviews express unmet needs"
+        return ""
 
     for idx, (question, dk) in enumerate(zip(QUESTIONS, Q_DATA_KEYS)):
         q_data = ins.get(dk, [])
@@ -381,7 +477,7 @@ with tabs[3]:
     topk = st.slider("How many reviews to retrieve", 3, 15, 6)
 
     if query:
-        RETRIEVER_MODE, SEARCH = get_retriever_v3()
+        RETRIEVER_MODE, SEARCH = get_retriever_v4()
         idx, sims = SEARCH(query, topk)
         retrieved = clean.iloc[idx].copy()
         retrieved["score"] = sims[idx]
