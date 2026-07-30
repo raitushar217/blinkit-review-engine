@@ -464,12 +464,15 @@ with tabs[3]:
         "How do users discover new products today?",
         "What do users say about exploring new categories?",
     ]
+    
+    def set_query(q):
+        st.session_state.search_query = q
+        
     cols = st.columns(len(examples))
-    picked = None
     for i, ex in enumerate(examples):
-        if cols[i].button(ex, key=f"example_{i}"):
-            picked = ex
-    query = st.text_input("Your question:", value=picked or "",
+        cols[i].button(ex, key=f"example_{i}", on_click=set_query, args=(ex,))
+        
+    query = st.text_input("Your question:", key="search_query",
                           placeholder="e.g. Why do users keep ordering the same products?")
     topk = st.slider("How many reviews to retrieve", 3, 15, 6)
 

@@ -2,9 +2,7 @@ review_id,source,text,rating,date
 1,App Store,"Okay so, the app is so smooth on ios, but i wish they had better category discovery. [31088]",4.0,2026-07-27T14:38:30.996731+00:00
 2,App Store,"The app is so smooth on ios, but i wish they had better category discovery. anyone else? [68013]",5.0,2026-07-25T01:19:19.996731+00:00
 3,App Store,"Honestly, the app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [95206]",5.0,2026-07-19T09:21:28.996731+00:00
-4,App Store,"Honestly, the app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [70546]",4.0,2026-07-22T14:48:00.996731+00:00
 5,App Store,"To be honest, i wish there was a 'discover' tab for new local brands. anyone else? [59093]",5.0,2026-07-23T19:39:32.996731+00:00
-6,App Store,"Honestly, the app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [19415]",5.0,2026-07-24T00:22:20.996731+00:00
 7,App Store,"In my opinion, i love the clean interface, but i end up just reordering my last cart. please improve this. [85463]",5.0,2026-07-19T15:04:33.996731+00:00
 8,App Store,"In my opinion, it's a habit now. i don't even think, i just open blinkit and order my staples. still 5 stars though. [51713]",4.0,2026-07-27T13:14:41.996731+00:00
 9,App Store,"Fast delivery, but i stick to familiar brands because of trust deficit. please improve this. [59083]",5.0,2026-07-28T21:55:14.996731+00:00
@@ -35,12 +33,10 @@ review_id,source,text,rating,date
 34,App Store,"Listen, why is it so hard to find fresh vegetables? the search is clunky. just my two cents. [43743]",5.0,2026-07-28T15:32:08.996731+00:00
 35,App Store,Price anxiety prevents me from exploring the premium categories. still 5 stars though. [75423],5.0,2026-07-21T18:30:06.996731+00:00
 36,App Store,"Honestly, great delivery speed, but i don't trust buying electronics here without more reviews. love it. [84360]",3.0,2026-07-23T11:02:42.996731+00:00
-37,App Store,Why is it so hard to find fresh vegetables? the search is clunky. [26491],5.0,2026-07-19T06:40:12.996731+00:00
 38,App Store,Why is it so hard to find fresh vegetables? the search is clunky. please improve this. [77015],4.0,2026-07-24T05:18:11.996731+00:00
 39,App Store,"I feel like i always buy the exact same things, it's too hard to browse for new snacks. definitely needs work. [95305]",4.0,2026-07-22T07:46:15.996731+00:00
 40,App Store,"Honestly, i tried ordering makeup but the descriptions are too sparse. anyone else? [12812]",5.0,2026-07-18T03:17:58.996731+00:00
 41,App Store,Price anxiety prevents me from exploring the premium categories. just my two cents. [51686],3.0,2026-07-18T11:41:38.996731+00:00
-42,App Store,"Honestly, the app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [34903]",5.0,2026-07-20T19:07:02.996731+00:00
 43,App Store,I feel like price anxiety prevents me from exploring the premium categories. definitely needs work. [78031],4.0,2026-07-21T21:32:39.996731+00:00
 44,App Store,"In my opinion, the category navigation needs a revamp. too many clicks to find what i need. [45876]",3.0,2026-07-28T20:00:11.996731+00:00
 45,App Store,"In my opinion, i wish there was a 'discover' tab for new local brands. definitely needs work. [31565]",4.0,2026-07-29T05:22:35.996731+00:00
@@ -50,15 +46,11 @@ review_id,source,text,rating,date
 49,App Store,"Okay so, it's a habit now. i don't even think, i just open blinkit and order my staples. anyone else? [36665]",4.0,2026-07-23T06:55:28.996731+00:00
 50,App Store,The 'frequently bought together' suggestions are rarely accurate. anyone else? [41174],3.0,2026-07-26T02:51:17.996731+00:00
 51,App Store,"To be honest, i tried ordering makeup but the descriptions are too sparse. anyone else? [44481]",4.0,2026-07-27T12:46:03.996731+00:00
-52,App Store,"In my opinion, i tried ordering makeup but the descriptions are too sparse. definitely needs work. [79480]",4.0,2026-07-20T00:48:52.996731+00:00
 53,App Store,"I always buy the exact same things, it's too hard to browse for new snacks. just my two cents. [44279]",5.0,2026-07-19T12:01:02.996731+00:00
 54,App Store,Customer support was very helpful when my eggs arrived broken. anyone else? [98237],4.0,2026-07-18T02:13:21.996731+00:00
 55,App Store,"In my opinion, i love the clean interface, but i end up just reordering my last cart. [27214]",4.0,2026-07-19T14:14:06.996731+00:00
 56,App Store,"The app is so smooth on ios, but i wish they had better category discovery. love it. [39880]",4.0,2026-07-20T20:33:34.996731+00:00
-57,App Store,Customer support was very helpful when my eggs arrived broken. still 5 stars though. [36599],3.0,2026-07-27T11:15:21.996731+00:00
-58,App Store,"In my opinion, i love the clean interface, but i end up just reordering my last cart. [62206]",4.0,2026-07-20T20:08:23.996731+00:00
 59,App Store,I feel like the 'frequently bought together' suggestions are rarely accurate. [51800],5.0,2026-07-24T02:02:16.996731+00:00
-60,App Store,"Honestly, it's a habit now. i don't even think, i just open blinkit and order my staples. still 5 stars though. [33558]",5.0,2026-07-24T19:47:38.996731+00:00
 61,App Store,I feel like the category navigation needs a revamp. too many clicks to find what i need. fix this please. [94870],3.0,2026-07-19T10:07:55.996731+00:00
 62,App Store,"It's a habit now. i don't even think, i just open blinkit and order my staples. just my two cents. [89127]",4.0,2026-07-27T08:23:30.996731+00:00
 63,App Store,"Okay so, i love the clean interface, but i end up just reordering my last cart. [84290]",5.0,2026-07-20T09:12:07.996731+00:00
@@ -70,13 +62,10 @@ review_id,source,text,rating,date
 69,App Store,"To be honest, the 'frequently bought together' suggestions are rarely accurate. anyone else? [70771]",3.0,2026-07-21T22:00:42.996731+00:00
 70,App Store,"In my opinion, i wish there was a 'discover' tab for new local brands. please improve this. [54212]",5.0,2026-07-24T07:03:41.996731+00:00
 71,App Store,"Okay so, i wish there was a 'discover' tab for new local brands. still 5 stars though. [38579]",4.0,2026-07-19T20:45:23.996731+00:00
-72,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. anyone else? [53401],3.0,2026-07-18T05:52:09.996731+00:00
 73,App Store,"In my opinion, great delivery speed, but i don't trust buying electronics here without more reviews. love it. [11871]",5.0,2026-07-29T06:21:22.996731+00:00
 74,App Store,The 'frequently bought together' suggestions are rarely accurate. definitely needs work. [70715],3.0,2026-07-22T19:30:06.996731+00:00
 75,App Store,I feel like the new print out category is a lifesaver! saved me a trip to the store. anyone else? [63879],4.0,2026-07-20T04:05:50.996731+00:00
 76,App Store,"To be honest, i love the clean interface, but i end up just reordering my last cart. fix this please. [43921]",4.0,2026-07-27T17:11:32.996731+00:00
-77,App Store,"Listen, the category navigation needs a revamp. too many clicks to find what i need. fix this please. [24608]",5.0,2026-07-28T07:57:24.996731+00:00
-78,App Store,"In my opinion, the category navigation needs a revamp. too many clicks to find what i need. [33379]",5.0,2026-07-26T08:48:36.996731+00:00
 79,App Store,"Listen, i love the clean interface, but i end up just reordering my last cart. [79699]",4.0,2026-07-26T12:21:14.996731+00:00
 80,App Store,"Listen, i always buy the exact same things, it's too hard to browse for new snacks. anyone else? [39865]",5.0,2026-07-26T22:24:47.996731+00:00
 81,App Store,"Listen, i wish there was a 'discover' tab for new local brands. please improve this. [66722]",5.0,2026-07-25T05:59:10.996731+00:00
@@ -87,11 +76,9 @@ review_id,source,text,rating,date
 86,App Store,"To be honest, the app is so smooth on ios, but i wish they had better category discovery. fix this please. [10773]",3.0,2026-07-21T21:23:50.996731+00:00
 87,App Store,"In my opinion, it's a habit now. i don't even think, i just open blinkit and order my staples. fix this please. [21835]",4.0,2026-07-21T00:53:38.996731+00:00
 88,App Store,Price anxiety prevents me from exploring the premium categories. definitely needs work. [82100],5.0,2026-07-19T18:13:03.996731+00:00
-89,App Store,"Listen, i tried ordering makeup but the descriptions are too sparse. definitely needs work. [37496]",4.0,2026-07-25T17:13:24.996731+00:00
 90,App Store,"Okay so, i tried ordering makeup but the descriptions are too sparse. definitely needs work. [93902]",5.0,2026-07-21T16:12:47.996731+00:00
 91,App Store,"To be honest, why is it so hard to find fresh vegetables? the search is clunky. please improve this. [37956]",4.0,2026-07-18T09:30:19.996731+00:00
 92,App Store,I feel like why is it so hard to find fresh vegetables? the search is clunky. fix this please. [63529],5.0,2026-07-25T19:47:28.996731+00:00
-93,App Store,"It's a habit now. i don't even think, i just open blinkit and order my staples. just my two cents. [52779]",4.0,2026-07-29T03:02:26.996731+00:00
 94,App Store,"To be honest, the app is so smooth on ios, but i wish they had better category discovery. anyone else? [62217]",4.0,2026-07-19T12:24:12.996731+00:00
 95,App Store,"In my opinion, blinkit is my absolute go-to for groceries. super reliable on my iphone. still 5 stars though. [86064]",4.0,2026-07-20T16:39:33.996731+00:00
 96,App Store,"To be honest, the new print out category is a lifesaver! saved me a trip to the store. still 5 stars though. [29856]",5.0,2026-07-21T16:44:13.996731+00:00
@@ -103,7 +90,6 @@ review_id,source,text,rating,date
 102,App Store,I feel like price anxiety prevents me from exploring the premium categories. still 5 stars though. [71666],5.0,2026-07-29T05:09:41.996731+00:00
 103,App Store,"Okay so, the category navigation needs a revamp. too many clicks to find what i need. love it. [68768]",3.0,2026-07-27T23:39:04.996731+00:00
 104,App Store,"Honestly, the app is so smooth on ios, but i wish they had better category discovery. just my two cents. [27982]",5.0,2026-07-20T20:09:39.996731+00:00
-105,App Store,I feel like the category navigation needs a revamp. too many clicks to find what i need. fix this please. [39621],5.0,2026-07-20T15:03:55.996731+00:00
 106,App Store,"In my opinion, i always buy the exact same things, it's too hard to browse for new snacks. love it. [13845]",5.0,2026-07-28T08:19:29.996731+00:00
 107,App Store,"Great delivery speed, but i don't trust buying electronics here without more reviews. still 5 stars though. [73896]",5.0,2026-07-19T02:09:45.996731+00:00
 108,App Store,"I feel like i love the clean interface, but i end up just reordering my last cart. love it. [92294]",5.0,2026-07-19T12:09:43.996731+00:00
@@ -119,7 +105,6 @@ review_id,source,text,rating,date
 118,App Store,"I feel like great delivery speed, but i don't trust buying electronics here without more reviews. please improve this. [83591]",5.0,2026-07-18T16:25:57.996731+00:00
 119,App Store,"Okay so, price anxiety prevents me from exploring the premium categories. [31046]",5.0,2026-07-26T02:17:39.996731+00:00
 120,App Store,"In my opinion, i wish there was a 'discover' tab for new local brands. love it. [23391]",4.0,2026-07-22T21:17:46.996731+00:00
-121,App Store,"I feel like fast delivery, but i stick to familiar brands because of trust deficit. [21883]",4.0,2026-07-22T07:38:52.996731+00:00
 122,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. definitely needs work. [17516],4.0,2026-07-20T23:15:39.996731+00:00
 123,App Store,"In my opinion, the new print out category is a lifesaver! saved me a trip to the store. definitely needs work. [89744]",5.0,2026-07-23T23:52:09.996731+00:00
 124,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. [43877],5.0,2026-07-25T17:25:16.996731+00:00
@@ -128,9 +113,7 @@ review_id,source,text,rating,date
 127,App Store,"Listen, price anxiety prevents me from exploring the premium categories. [43588]",4.0,2026-07-27T06:03:07.996731+00:00
 128,App Store,"Listen, i love the clean interface, but i end up just reordering my last cart. definitely needs work. [53858]",4.0,2026-07-26T01:12:50.996731+00:00
 129,App Store,"Fast delivery, but i stick to familiar brands because of trust deficit. love it. [18742]",4.0,2026-07-27T00:30:18.996731+00:00
-130,App Store,"Fast delivery, but i stick to familiar brands because of trust deficit. love it. [23952]",5.0,2026-07-19T01:49:05.996731+00:00
 131,App Store,"Honestly, the new print out category is a lifesaver! saved me a trip to the store. [86991]",3.0,2026-07-18T04:18:46.996731+00:00
-132,App Store,"Fast delivery, but i stick to familiar brands because of trust deficit. please improve this. [54233]",5.0,2026-07-21T05:02:07.996731+00:00
 133,App Store,"Okay so, the 'frequently bought together' suggestions are rarely accurate. [85371]",3.0,2026-07-27T22:22:09.996731+00:00
 134,App Store,"The app is so smooth on ios, but i wish they had better category discovery. fix this please. [76990]",5.0,2026-07-23T10:53:12.996731+00:00
 135,App Store,"To be honest, i tried ordering makeup but the descriptions are too sparse. love it. [99513]",4.0,2026-07-20T11:23:18.996731+00:00
@@ -143,7 +126,6 @@ review_id,source,text,rating,date
 142,App Store,"Listen, the category navigation needs a revamp. too many clicks to find what i need. just my two cents. [86260]",3.0,2026-07-19T06:12:24.996731+00:00
 143,App Store,"In my opinion, i wish there was a 'discover' tab for new local brands. anyone else? [94275]",5.0,2026-07-26T03:58:59.996731+00:00
 144,App Store,"In my opinion, blinkit is my absolute go-to for groceries. super reliable on my iphone. [61390]",5.0,2026-07-24T00:40:26.996731+00:00
-145,App Store,"Honestly, i wish there was a 'discover' tab for new local brands. fix this please. [19831]",5.0,2026-07-25T03:52:18.996731+00:00
 146,App Store,"Okay so, it's a habit now. i don't even think, i just open blinkit and order my staples. please improve this. [37712]",4.0,2026-07-27T01:59:12.996731+00:00
 147,App Store,"To be honest, the 'frequently bought together' suggestions are rarely accurate. please improve this. [95833]",5.0,2026-07-26T06:01:30.996731+00:00
 148,App Store,"I feel like i love the clean interface, but i end up just reordering my last cart. still 5 stars though. [36520]",5.0,2026-07-22T13:57:13.996731+00:00
@@ -154,15 +136,10 @@ review_id,source,text,rating,date
 153,App Store,"Okay so, the new print out category is a lifesaver! saved me a trip to the store. just my two cents. [37438]",5.0,2026-07-27T23:25:34.996731+00:00
 154,App Store,"In my opinion, great delivery speed, but i don't trust buying electronics here without more reviews. anyone else? [20363]",4.0,2026-07-27T01:34:49.996731+00:00
 155,App Store,"Okay so, the new print out category is a lifesaver! saved me a trip to the store. love it. [76040]",4.0,2026-07-28T06:20:28.996731+00:00
-156,App Store,Customer support was very helpful when my eggs arrived broken. anyone else? [86420],3.0,2026-07-28T23:03:36.996731+00:00
 157,App Store,I feel like blinkit is my absolute go-to for groceries. super reliable on my iphone. please improve this. [14292],5.0,2026-07-24T22:07:49.996731+00:00
-158,App Store,"In my opinion, i wish there was a 'discover' tab for new local brands. please improve this. [25994]",4.0,2026-07-28T12:40:01.996731+00:00
-159,App Store,"Honestly, customer support was very helpful when my eggs arrived broken. anyone else? [13070]",5.0,2026-07-20T08:38:37.996731+00:00
-160,App Store,"It's a habit now. i don't even think, i just open blinkit and order my staples. please improve this. [97749]",5.0,2026-07-18T11:54:24.996731+00:00
 161,App Store,I feel like i wish there was a 'discover' tab for new local brands. please improve this. [42739],4.0,2026-07-23T09:19:17.996731+00:00
 162,App Store,The category navigation needs a revamp. too many clicks to find what i need. definitely needs work. [49529],5.0,2026-07-21T09:08:26.996731+00:00
 163,App Store,"Okay so, the app is so smooth on ios, but i wish they had better category discovery. just my two cents. [18041]",4.0,2026-07-25T03:40:15.996731+00:00
-164,App Store,Price anxiety prevents me from exploring the premium categories. definitely needs work. [23675],5.0,2026-07-23T13:50:44.996731+00:00
 165,App Store,"In my opinion, it's a habit now. i don't even think, i just open blinkit and order my staples. definitely needs work. [71443]",3.0,2026-07-26T20:07:55.996731+00:00
 166,App Store,"Listen, the 'frequently bought together' suggestions are rarely accurate. [96984]",4.0,2026-07-21T02:20:31.996731+00:00
 167,App Store,"To be honest, i wish there was a 'discover' tab for new local brands. fix this please. [64145]",5.0,2026-07-20T20:04:01.996731+00:00
@@ -171,9 +148,7 @@ review_id,source,text,rating,date
 170,App Store,"Honestly, the new print out category is a lifesaver! saved me a trip to the store. anyone else? [10498]",5.0,2026-07-27T22:26:04.996731+00:00
 171,App Store,"Listen, customer support was very helpful when my eggs arrived broken. fix this please. [22493]",3.0,2026-07-19T03:46:57.996731+00:00
 172,App Store,"I feel like the app is so smooth on ios, but i wish they had better category discovery. anyone else? [61196]",3.0,2026-07-26T22:05:04.996731+00:00
-173,App Store,"I feel like great delivery speed, but i don't trust buying electronics here without more reviews. please improve this. [53402]",5.0,2026-07-19T05:25:54.996731+00:00
 174,App Store,"To be honest, fast delivery, but i stick to familiar brands because of trust deficit. [17906]",5.0,2026-07-28T05:36:42.996731+00:00
-175,App Store,Why is it so hard to find fresh vegetables? the search is clunky. [71498],3.0,2026-07-26T23:19:35.996731+00:00
 176,App Store,"In my opinion, the 'frequently bought together' suggestions are rarely accurate. still 5 stars though. [56357]",4.0,2026-07-18T11:59:47.996731+00:00
 177,App Store,The new print out category is a lifesaver! saved me a trip to the store. love it. [17287],3.0,2026-07-26T08:25:36.996731+00:00
 178,App Store,"Honestly, the category navigation needs a revamp. too many clicks to find what i need. just my two cents. [46965]",4.0,2026-07-24T10:01:50.996731+00:00
@@ -183,14 +158,11 @@ review_id,source,text,rating,date
 182,App Store,"I feel like it's a habit now. i don't even think, i just open blinkit and order my staples. fix this please. [38565]",3.0,2026-07-21T11:40:09.996731+00:00
 183,App Store,"In my opinion, the app is so smooth on ios, but i wish they had better category discovery. love it. [89150]",3.0,2026-07-20T22:49:34.996731+00:00
 184,App Store,"Listen, the app is so smooth on ios, but i wish they had better category discovery. fix this please. [16297]",5.0,2026-07-19T08:40:04.996731+00:00
-185,App Store,"Okay so, the app is so smooth on ios, but i wish they had better category discovery. [96339]",5.0,2026-07-21T23:58:18.996731+00:00
 186,App Store,"Listen, i wish there was a 'discover' tab for new local brands. just my two cents. [57563]",4.0,2026-07-27T19:31:30.996731+00:00
 187,App Store,"Okay so, i love the clean interface, but i end up just reordering my last cart. anyone else? [73082]",5.0,2026-07-20T03:11:40.996731+00:00
 188,App Store,"Listen, i always buy the exact same things, it's too hard to browse for new snacks. please improve this. [85367]",5.0,2026-07-25T20:50:00.996731+00:00
-189,App Store,The 'frequently bought together' suggestions are rarely accurate. fix this please. [61778],4.0,2026-07-20T22:50:17.996731+00:00
 190,App Store,"Honestly, the new print out category is a lifesaver! saved me a trip to the store. just my two cents. [55999]",3.0,2026-07-21T08:49:59.996731+00:00
 191,App Store,"I love the clean interface, but i end up just reordering my last cart. anyone else? [99668]",5.0,2026-07-18T07:22:30.996731+00:00
-192,App Store,The 'frequently bought together' suggestions are rarely accurate. anyone else? [25048],5.0,2026-07-22T22:13:25.996731+00:00
 193,App Store,Why is it so hard to find fresh vegetables? the search is clunky. still 5 stars though. [55004],5.0,2026-07-26T01:04:48.996731+00:00
 194,App Store,"Okay so, i always buy the exact same things, it's too hard to browse for new snacks. love it. [25926]",3.0,2026-07-26T02:58:04.996731+00:00
 195,App Store,"In my opinion, blinkit is my absolute go-to for groceries. super reliable on my iphone. please improve this. [25101]",4.0,2026-07-27T05:29:40.996731+00:00
@@ -204,23 +176,16 @@ review_id,source,text,rating,date
 203,App Store,"In my opinion, price anxiety prevents me from exploring the premium categories. fix this please. [75357]",5.0,2026-07-18T06:43:35.996731+00:00
 204,App Store,"Listen, fast delivery, but i stick to familiar brands because of trust deficit. [85138]",5.0,2026-07-24T20:26:46.996731+00:00
 205,App Store,I feel like the category navigation needs a revamp. too many clicks to find what i need. love it. [83414],5.0,2026-07-17T21:53:55.996731+00:00
-206,App Store,"Okay so, i love the clean interface, but i end up just reordering my last cart. definitely needs work. [63887]",4.0,2026-07-23T23:34:53.996731+00:00
-207,App Store,"Listen, the category navigation needs a revamp. too many clicks to find what i need. fix this please. [65813]",5.0,2026-07-22T05:37:15.996731+00:00
 208,App Store,"Honestly, it's a habit now. i don't even think, i just open blinkit and order my staples. definitely needs work. [94604]",5.0,2026-07-29T10:47:57.996731+00:00
 209,App Store,"Okay so, the new print out category is a lifesaver! saved me a trip to the store. [77142]",4.0,2026-07-21T08:10:45.996731+00:00
 210,App Store,"Honestly, great delivery speed, but i don't trust buying electronics here without more reviews. still 5 stars though. [31541]",5.0,2026-07-25T08:21:41.996731+00:00
 211,App Store,The 'frequently bought together' suggestions are rarely accurate. love it. [47577],4.0,2026-07-22T23:55:27.996731+00:00
-212,App Store,"Okay so, the 'frequently bought together' suggestions are rarely accurate. still 5 stars though. [33706]",3.0,2026-07-25T01:28:34.996731+00:00
 213,App Store,"Okay so, the 'frequently bought together' suggestions are rarely accurate. definitely needs work. [54043]",5.0,2026-07-19T05:39:07.996731+00:00
-214,App Store,Why is it so hard to find fresh vegetables? the search is clunky. love it. [80900],4.0,2026-07-20T15:32:25.996731+00:00
 215,App Store,"Listen, blinkit is my absolute go-to for groceries. super reliable on my iphone. fix this please. [50245]",4.0,2026-07-19T21:27:20.996731+00:00
-216,App Store,"I always buy the exact same things, it's too hard to browse for new snacks. please improve this. [69704]",5.0,2026-07-20T14:28:46.996731+00:00
 217,App Store,"Okay so, customer support was very helpful when my eggs arrived broken. definitely needs work. [46486]",4.0,2026-07-22T05:57:40.996731+00:00
 218,App Store,"Listen, why is it so hard to find fresh vegetables? the search is clunky. fix this please. [87873]",4.0,2026-07-24T16:54:15.996731+00:00
-219,App Store,"Honestly, i tried ordering makeup but the descriptions are too sparse. anyone else? [86737]",4.0,2026-07-27T03:51:59.996731+00:00
 220,App Store,The category navigation needs a revamp. too many clicks to find what i need. still 5 stars though. [28662],5.0,2026-07-27T19:04:37.996731+00:00
 221,App Store,"Honestly, customer support was very helpful when my eggs arrived broken. love it. [46590]",4.0,2026-07-24T10:08:11.996731+00:00
-222,App Store,Why is it so hard to find fresh vegetables? the search is clunky. still 5 stars though. [31505],4.0,2026-07-27T22:24:58.996731+00:00
 223,App Store,"Honestly, price anxiety prevents me from exploring the premium categories. [97884]",5.0,2026-07-18T06:13:49.996731+00:00
 224,App Store,"Okay so, customer support was very helpful when my eggs arrived broken. still 5 stars though. [38814]",4.0,2026-07-21T14:14:09.996731+00:00
 225,App Store,"Listen, the 'frequently bought together' suggestions are rarely accurate. fix this please. [57324]",4.0,2026-07-21T20:16:55.996731+00:00
@@ -233,59 +198,40 @@ review_id,source,text,rating,date
 232,App Store,"Okay so, the category navigation needs a revamp. too many clicks to find what i need. please improve this. [81856]",4.0,2026-07-25T00:05:09.996731+00:00
 233,App Store,"In my opinion, it's a habit now. i don't even think, i just open blinkit and order my staples. love it. [82968]",3.0,2026-07-26T00:09:45.996731+00:00
 234,App Store,The category navigation needs a revamp. too many clicks to find what i need. fix this please. [18883],5.0,2026-07-19T00:55:45.996731+00:00
-235,App Store,"Honestly, the category navigation needs a revamp. too many clicks to find what i need. definitely needs work. [86520]",4.0,2026-07-23T01:42:26.996731+00:00
 236,App Store,Why is it so hard to find fresh vegetables? the search is clunky. just my two cents. [34458],3.0,2026-07-22T11:54:42.996731+00:00
 237,App Store,"Listen, customer support was very helpful when my eggs arrived broken. [69582]",5.0,2026-07-18T14:09:13.996731+00:00
 238,App Store,"I feel like the app is so smooth on ios, but i wish they had better category discovery. love it. [24897]",5.0,2026-07-27T17:58:20.996731+00:00
-239,App Store,Customer support was very helpful when my eggs arrived broken. anyone else? [94054],4.0,2026-07-21T16:16:22.996731+00:00
-240,App Store,"I feel like great delivery speed, but i don't trust buying electronics here without more reviews. [43932]",3.0,2026-07-29T04:50:54.996731+00:00
 241,App Store,"In my opinion, the 'frequently bought together' suggestions are rarely accurate. fix this please. [13264]",4.0,2026-07-28T10:18:22.996731+00:00
 242,App Store,"Honestly, the category navigation needs a revamp. too many clicks to find what i need. anyone else? [55830]",5.0,2026-07-27T11:56:25.996731+00:00
 243,App Store,"Fast delivery, but i stick to familiar brands because of trust deficit. just my two cents. [43673]",5.0,2026-07-20T03:38:15.996731+00:00
 244,App Store,"Honestly, i always buy the exact same things, it's too hard to browse for new snacks. love it. [64455]",3.0,2026-07-24T23:24:03.996731+00:00
 245,App Store,"To be honest, customer support was very helpful when my eggs arrived broken. please improve this. [56049]",5.0,2026-07-23T23:09:45.996731+00:00
 246,App Store,"Okay so, why is it so hard to find fresh vegetables? the search is clunky. love it. [22770]",5.0,2026-07-22T16:32:39.996731+00:00
-247,App Store,The category navigation needs a revamp. too many clicks to find what i need. definitely needs work. [48009],5.0,2026-07-25T04:08:49.996731+00:00
-248,App Store,Price anxiety prevents me from exploring the premium categories. definitely needs work. [56106],4.0,2026-07-29T10:12:11.996731+00:00
 249,App Store,"In my opinion, price anxiety prevents me from exploring the premium categories. please improve this. [58173]",5.0,2026-07-21T11:00:29.996731+00:00
 250,App Store,"Okay so, great delivery speed, but i don't trust buying electronics here without more reviews. fix this please. [93438]",4.0,2026-07-27T07:43:32.996731+00:00
-251,App Store,"Okay so, the app is so smooth on ios, but i wish they had better category discovery. [23560]",4.0,2026-07-21T18:09:45.996731+00:00
 252,App Store,"The app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [65272]",5.0,2026-07-19T14:30:34.996731+00:00
 253,App Store,"In my opinion, great delivery speed, but i don't trust buying electronics here without more reviews. still 5 stars though. [91745]",4.0,2026-07-26T23:09:10.996731+00:00
 254,App Store,"To be honest, i wish there was a 'discover' tab for new local brands. [65298]",5.0,2026-07-24T09:57:57.996731+00:00
-255,App Store,"It's a habit now. i don't even think, i just open blinkit and order my staples. [81481]",5.0,2026-07-29T06:11:53.996731+00:00
-256,App Store,The category navigation needs a revamp. too many clicks to find what i need. fix this please. [48572],5.0,2026-07-25T16:46:19.996731+00:00
-257,App Store,"In my opinion, i wish there was a 'discover' tab for new local brands. anyone else? [38195]",5.0,2026-07-27T09:43:17.996731+00:00
 258,App Store,"Honestly, blinkit is my absolute go-to for groceries. super reliable on my iphone. still 5 stars though. [98367]",5.0,2026-07-24T09:25:38.996731+00:00
 259,App Store,I feel like i tried ordering makeup but the descriptions are too sparse. definitely needs work. [37619],4.0,2026-07-18T02:14:18.996731+00:00
 260,App Store,"Honestly, i love the clean interface, but i end up just reordering my last cart. definitely needs work. [83960]",5.0,2026-07-24T10:56:33.996731+00:00
-261,App Store,Price anxiety prevents me from exploring the premium categories. still 5 stars though. [80098],5.0,2026-07-18T12:19:42.996731+00:00
 262,App Store,Why is it so hard to find fresh vegetables? the search is clunky. definitely needs work. [44391],3.0,2026-07-22T19:03:33.996731+00:00
 263,App Store,"To be honest, blinkit is my absolute go-to for groceries. super reliable on my iphone. anyone else? [84697]",3.0,2026-07-23T12:42:03.996731+00:00
-264,App Store,"The app is so smooth on ios, but i wish they had better category discovery. anyone else? [70806]",4.0,2026-07-24T13:10:03.996731+00:00
-265,App Store,"The app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [22203]",4.0,2026-07-18T07:26:11.996731+00:00
 266,App Store,"Listen, the new print out category is a lifesaver! saved me a trip to the store. fix this please. [49372]",4.0,2026-07-27T13:49:59.996731+00:00
 267,App Store,"I feel like i love the clean interface, but i end up just reordering my last cart. just my two cents. [76831]",4.0,2026-07-27T09:01:18.996731+00:00
-268,App Store,"Honestly, i love the clean interface, but i end up just reordering my last cart. definitely needs work. [72195]",5.0,2026-07-25T05:01:48.996731+00:00
 269,App Store,"Honestly, i love the clean interface, but i end up just reordering my last cart. still 5 stars though. [85684]",5.0,2026-07-27T20:16:47.996731+00:00
 270,App Store,"In my opinion, the 'frequently bought together' suggestions are rarely accurate. anyone else? [49496]",4.0,2026-07-26T00:38:48.996731+00:00
 271,App Store,I feel like why is it so hard to find fresh vegetables? the search is clunky. [76162],5.0,2026-07-27T21:40:41.996731+00:00
-272,App Store,"Honestly, i always buy the exact same things, it's too hard to browse for new snacks. fix this please. [93573]",5.0,2026-07-29T08:03:40.996731+00:00
 273,App Store,"Okay so, the new print out category is a lifesaver! saved me a trip to the store. please improve this. [38040]",5.0,2026-07-29T02:29:20.996731+00:00
-274,App Store,"Honestly, it's a habit now. i don't even think, i just open blinkit and order my staples. [46883]",4.0,2026-07-27T14:10:08.996731+00:00
 275,App Store,The new print out category is a lifesaver! saved me a trip to the store. just my two cents. [31254],5.0,2026-07-22T10:16:23.996731+00:00
 276,App Store,"Okay so, fast delivery, but i stick to familiar brands because of trust deficit. just my two cents. [54431]",3.0,2026-07-18T09:31:23.996731+00:00
 277,App Store,"Honestly, i wish there was a 'discover' tab for new local brands. still 5 stars though. [88961]",5.0,2026-07-22T19:17:58.996731+00:00
-278,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. [45176],3.0,2026-07-19T00:27:21.996731+00:00
 279,App Store,"Honestly, why is it so hard to find fresh vegetables? the search is clunky. fix this please. [21978]",3.0,2026-07-19T21:03:21.996731+00:00
-280,App Store,"To be honest, i tried ordering makeup but the descriptions are too sparse. love it. [12319]",4.0,2026-07-23T08:31:19.996731+00:00
 281,App Store,"Listen, the 'frequently bought together' suggestions are rarely accurate. anyone else? [81010]",3.0,2026-07-24T18:25:39.996731+00:00
 282,App Store,"Honestly, i tried ordering makeup but the descriptions are too sparse. still 5 stars though. [27816]",5.0,2026-07-22T21:20:26.996731+00:00
 283,App Store,The category navigation needs a revamp. too many clicks to find what i need. love it. [21389],5.0,2026-07-23T17:41:36.996731+00:00
 284,App Store,"In my opinion, i tried ordering makeup but the descriptions are too sparse. fix this please. [71333]",5.0,2026-07-18T03:49:43.996731+00:00
-285,App Store,"Great delivery speed, but i don't trust buying electronics here without more reviews. [89678]",4.0,2026-07-27T15:26:58.996731+00:00
 286,App Store,"Honestly, great delivery speed, but i don't trust buying electronics here without more reviews. anyone else? [47366]",4.0,2026-07-18T13:13:02.996731+00:00
-287,App Store,"Okay so, i tried ordering makeup but the descriptions are too sparse. definitely needs work. [14133]",3.0,2026-07-26T09:33:36.996731+00:00
 288,App Store,"I feel like great delivery speed, but i don't trust buying electronics here without more reviews. just my two cents. [68797]",5.0,2026-07-22T12:49:29.996731+00:00
 289,App Store,I wish there was a 'discover' tab for new local brands. fix this please. [10491],3.0,2026-07-25T16:06:37.996731+00:00
 290,App Store,"Listen, it's a habit now. i don't even think, i just open blinkit and order my staples. still 5 stars though. [30853]",4.0,2026-07-25T03:09:32.996731+00:00
@@ -302,22 +248,15 @@ review_id,source,text,rating,date
 301,App Store,"In my opinion, customer support was very helpful when my eggs arrived broken. [13803]",5.0,2026-07-21T10:41:45.996731+00:00
 302,App Store,"Honestly, i love the clean interface, but i end up just reordering my last cart. fix this please. [22108]",5.0,2026-07-27T05:16:37.996731+00:00
 303,App Store,"In my opinion, customer support was very helpful when my eggs arrived broken. anyone else? [81081]",5.0,2026-07-18T21:44:27.996731+00:00
-304,App Store,Why is it so hard to find fresh vegetables? the search is clunky. still 5 stars though. [13738],3.0,2026-07-28T16:42:17.996731+00:00
 305,App Store,"Okay so, the 'frequently bought together' suggestions are rarely accurate. just my two cents. [14649]",3.0,2026-07-21T02:50:55.996731+00:00
-306,App Store,"In my opinion, customer support was very helpful when my eggs arrived broken. definitely needs work. [14620]",4.0,2026-07-18T09:41:53.996731+00:00
 307,App Store,"Honestly, fast delivery, but i stick to familiar brands because of trust deficit. definitely needs work. [59931]",5.0,2026-07-27T15:50:33.996731+00:00
 308,App Store,I feel like why is it so hard to find fresh vegetables? the search is clunky. love it. [38789],3.0,2026-07-18T17:50:41.996731+00:00
 309,App Store,"In my opinion, the new print out category is a lifesaver! saved me a trip to the store. just my two cents. [66107]",4.0,2026-07-20T15:26:19.996731+00:00
-310,App Store,"Honestly, the 'frequently bought together' suggestions are rarely accurate. fix this please. [82005]",5.0,2026-07-25T19:40:47.996731+00:00
 311,App Store,"To be honest, blinkit is my absolute go-to for groceries. super reliable on my iphone. [70521]",5.0,2026-07-26T22:36:21.996731+00:00
-312,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. anyone else? [62151],4.0,2026-07-24T10:58:02.996731+00:00
-313,App Store,"Listen, i love the clean interface, but i end up just reordering my last cart. definitely needs work. [35135]",5.0,2026-07-24T05:37:21.996731+00:00
 314,App Store,I tried ordering makeup but the descriptions are too sparse. definitely needs work. [66763],4.0,2026-07-21T05:23:07.996731+00:00
-315,App Store,I feel like why is it so hard to find fresh vegetables? the search is clunky. [89605],5.0,2026-07-23T15:24:40.996731+00:00
 316,App Store,"To be honest, the category navigation needs a revamp. too many clicks to find what i need. anyone else? [87094]",4.0,2026-07-20T11:56:37.996731+00:00
 317,App Store,The new print out category is a lifesaver! saved me a trip to the store. definitely needs work. [71151],4.0,2026-07-20T11:07:47.996731+00:00
 318,App Store,Customer support was very helpful when my eggs arrived broken. [61748],4.0,2026-07-18T15:15:03.996731+00:00
-319,App Store,The 'frequently bought together' suggestions are rarely accurate. love it. [53142],3.0,2026-07-24T17:40:18.996731+00:00
 320,App Store,"To be honest, why is it so hard to find fresh vegetables? the search is clunky. anyone else? [24841]",5.0,2026-07-28T01:28:04.996731+00:00
 321,App Store,"In my opinion, the 'frequently bought together' suggestions are rarely accurate. love it. [26474]",5.0,2026-07-25T19:48:36.996731+00:00
 322,App Store,"To be honest, i wish there was a 'discover' tab for new local brands. definitely needs work. [35285]",5.0,2026-07-18T07:49:28.996731+00:00
@@ -333,122 +272,81 @@ review_id,source,text,rating,date
 332,App Store,"Honestly, blinkit is my absolute go-to for groceries. super reliable on my iphone. love it. [41417]",3.0,2026-07-18T09:38:52.996731+00:00
 333,App Store,"In my opinion, i love the clean interface, but i end up just reordering my last cart. still 5 stars though. [83365]",5.0,2026-07-27T02:37:53.996731+00:00
 334,App Store,I tried ordering makeup but the descriptions are too sparse. [21768],5.0,2026-07-26T08:57:39.996731+00:00
-335,App Store,"Okay so, why is it so hard to find fresh vegetables? the search is clunky. love it. [34252]",3.0,2026-07-19T10:04:29.996731+00:00
 336,App Store,"Okay so, the app is so smooth on ios, but i wish they had better category discovery. fix this please. [29838]",5.0,2026-07-20T22:30:09.996731+00:00
 337,App Store,"In my opinion, it's a habit now. i don't even think, i just open blinkit and order my staples. just my two cents. [77262]",5.0,2026-07-25T21:09:25.996731+00:00
 338,App Store,Customer support was very helpful when my eggs arrived broken. just my two cents. [17630],3.0,2026-07-27T07:02:06.996731+00:00
 339,App Store,I wish there was a 'discover' tab for new local brands. please improve this. [11577],5.0,2026-07-21T09:15:37.996731+00:00
-340,App Store,"I feel like i love the clean interface, but i end up just reordering my last cart. love it. [37825]",3.0,2026-07-19T03:03:08.996731+00:00
 341,App Store,I feel like customer support was very helpful when my eggs arrived broken. please improve this. [46911],5.0,2026-07-22T21:40:25.996731+00:00
 342,App Store,"Listen, the app is so smooth on ios, but i wish they had better category discovery. love it. [63064]",5.0,2026-07-18T07:12:09.996731+00:00
 343,App Store,"Okay so, i tried ordering makeup but the descriptions are too sparse. fix this please. [90545]",4.0,2026-07-20T15:44:48.996731+00:00
 344,App Store,"It's a habit now. i don't even think, i just open blinkit and order my staples. fix this please. [42573]",5.0,2026-07-29T05:20:43.996731+00:00
-345,App Store,"To be honest, the app is so smooth on ios, but i wish they had better category discovery. definitely needs work. [56656]",5.0,2026-07-27T00:41:41.996731+00:00
-346,App Store,"Honestly, customer support was very helpful when my eggs arrived broken. love it. [50703]",5.0,2026-07-26T08:58:53.996731+00:00
 347,App Store,"Listen, customer support was very helpful when my eggs arrived broken. love it. [23341]",5.0,2026-07-29T08:58:49.996731+00:00
 348,App Store,"Okay so, i tried ordering makeup but the descriptions are too sparse. [76450]",4.0,2026-07-23T21:22:16.996731+00:00
 349,App Store,"In my opinion, why is it so hard to find fresh vegetables? the search is clunky. [26620]",5.0,2026-07-27T07:43:41.996731+00:00
-350,App Store,"Okay so, price anxiety prevents me from exploring the premium categories. [69436]",3.0,2026-07-28T03:36:21.996731+00:00
 351,App Store,"In my opinion, the app is so smooth on ios, but i wish they had better category discovery. anyone else? [64436]",5.0,2026-07-24T12:59:59.996731+00:00
 352,App Store,"In my opinion, the new print out category is a lifesaver! saved me a trip to the store. anyone else? [28652]",4.0,2026-07-18T13:00:39.996731+00:00
 353,App Store,"Okay so, i tried ordering makeup but the descriptions are too sparse. anyone else? [68130]",4.0,2026-07-25T14:53:35.996731+00:00
 354,App Store,Price anxiety prevents me from exploring the premium categories. love it. [87844],5.0,2026-07-19T20:15:19.996731+00:00
 355,App Store,"Honestly, i wish there was a 'discover' tab for new local brands. [61435]",4.0,2026-07-27T22:31:45.996731+00:00
 356,App Store,"Honestly, the 'frequently bought together' suggestions are rarely accurate. [98316]",4.0,2026-07-29T10:03:19.996731+00:00
-357,App Store,"In my opinion, the new print out category is a lifesaver! saved me a trip to the store. just my two cents. [40469]",5.0,2026-07-20T11:23:53.996731+00:00
-358,App Store,I feel like why is it so hard to find fresh vegetables? the search is clunky. fix this please. [28678],4.0,2026-07-28T12:16:30.996731+00:00
 359,App Store,"Okay so, blinkit is my absolute go-to for groceries. super reliable on my iphone. [70049]",3.0,2026-07-21T22:17:21.996731+00:00
 360,App Store,I feel like customer support was very helpful when my eggs arrived broken. just my two cents. [55277],3.0,2026-07-22T13:23:23.996731+00:00
 361,App Store,"Okay so, great delivery speed, but i don't trust buying electronics here without more reviews. anyone else? [50292]",4.0,2026-07-22T23:06:07.996731+00:00
 362,App Store,"To be honest, blinkit is my absolute go-to for groceries. super reliable on my iphone. just my two cents. [38000]",5.0,2026-07-23T03:40:02.996731+00:00
 363,App Store,"In my opinion, the 'frequently bought together' suggestions are rarely accurate. just my two cents. [55365]",5.0,2026-07-17T23:39:01.996731+00:00
 364,App Store,"Okay so, it's a habit now. i don't even think, i just open blinkit and order my staples. [47390]",4.0,2026-07-25T12:15:37.996731+00:00
-365,App Store,"Listen, i wish there was a 'discover' tab for new local brands. fix this please. [31991]",5.0,2026-07-26T17:39:07.996731+00:00
 366,App Store,"Okay so, fast delivery, but i stick to familiar brands because of trust deficit. please improve this. [70542]",4.0,2026-07-24T11:15:48.996731+00:00
 367,App Store,"I feel like fast delivery, but i stick to familiar brands because of trust deficit. definitely needs work. [40727]",4.0,2026-07-19T06:08:56.996731+00:00
 368,App Store,"Listen, i always buy the exact same things, it's too hard to browse for new snacks. just my two cents. [44820]",5.0,2026-07-22T01:40:32.996731+00:00
 369,App Store,I feel like i wish there was a 'discover' tab for new local brands. still 5 stars though. [75734],3.0,2026-07-26T17:45:18.996731+00:00
-370,App Store,"To be honest, why is it so hard to find fresh vegetables? the search is clunky. please improve this. [40743]",4.0,2026-07-17T22:48:04.996731+00:00
-371,App Store,"Listen, i wish there was a 'discover' tab for new local brands. fix this please. [14025]",5.0,2026-07-22T01:06:06.996731+00:00
 372,App Store,"Okay so, i tried ordering makeup but the descriptions are too sparse. still 5 stars though. [72203]",5.0,2026-07-24T13:11:32.996731+00:00
-373,App Store,I wish there was a 'discover' tab for new local brands. please improve this. [88750],3.0,2026-07-18T12:51:23.996731+00:00
 374,App Store,Why is it so hard to find fresh vegetables? the search is clunky. anyone else? [99691],5.0,2026-07-23T22:06:08.996731+00:00
 375,App Store,"Honestly, why is it so hard to find fresh vegetables? the search is clunky. just my two cents. [38865]",5.0,2026-07-28T23:25:41.996731+00:00
 376,App Store,"Honestly, i love the clean interface, but i end up just reordering my last cart. [55881]",5.0,2026-07-23T05:37:45.996731+00:00
 377,App Store,"To be honest, it's a habit now. i don't even think, i just open blinkit and order my staples. definitely needs work. [40781]",5.0,2026-07-29T10:09:31.996731+00:00
-378,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. anyone else? [72658],5.0,2026-07-17T23:45:24.996731+00:00
-379,App Store,"In my opinion, customer support was very helpful when my eggs arrived broken. anyone else? [59729]",4.0,2026-07-18T18:01:37.996731+00:00
 380,App Store,"Okay so, it's a habit now. i don't even think, i just open blinkit and order my staples. definitely needs work. [29951]",4.0,2026-07-23T01:15:38.996731+00:00
 381,App Store,"In my opinion, i love the clean interface, but i end up just reordering my last cart. definitely needs work. [82790]",3.0,2026-07-18T21:06:35.996731+00:00
 382,App Store,"To be honest, why is it so hard to find fresh vegetables? the search is clunky. fix this please. [94909]",3.0,2026-07-19T04:47:13.996731+00:00
-383,App Store,"I feel like it's a habit now. i don't even think, i just open blinkit and order my staples. fix this please. [23104]",3.0,2026-07-23T06:10:00.996731+00:00
 384,App Store,"Honestly, i wish there was a 'discover' tab for new local brands. please improve this. [56847]",5.0,2026-07-19T10:38:27.996731+00:00
 385,App Store,Blinkit is my absolute go-to for groceries. super reliable on my iphone. fix this please. [26051],4.0,2026-07-22T09:21:21.996731+00:00
-386,App Store,"In my opinion, great delivery speed, but i don't trust buying electronics here without more reviews. anyone else? [73825]",5.0,2026-07-25T01:32:06.996731+00:00
 387,App Store,"To be honest, the new print out category is a lifesaver! saved me a trip to the store. just my two cents. [86480]",5.0,2026-07-24T15:52:19.996731+00:00
 388,App Store,"Fast delivery, but i stick to familiar brands because of trust deficit. definitely needs work. [60143]",4.0,2026-07-25T15:53:31.996731+00:00
 389,App Store,"Honestly, i always buy the exact same things, it's too hard to browse for new snacks. [90494]",5.0,2026-07-27T10:13:29.996731+00:00
 390,App Store,"Listen, great delivery speed, but i don't trust buying electronics here without more reviews. fix this please. [23822]",4.0,2026-07-18T21:48:44.996731+00:00
 391,App Store,"In my opinion, price anxiety prevents me from exploring the premium categories. just my two cents. [34826]",4.0,2026-07-22T09:28:35.996731+00:00
-392,App Store,Price anxiety prevents me from exploring the premium categories. [91976],3.0,2026-07-28T01:35:23.996731+00:00
-393,App Store,I feel like the new print out category is a lifesaver! saved me a trip to the store. anyone else? [29823],5.0,2026-07-23T16:25:12.996731+00:00
-394,App Store,"I feel like it's a habit now. i don't even think, i just open blinkit and order my staples. fix this please. [37494]",4.0,2026-07-18T14:59:36.996731+00:00
-395,App Store,"Okay so, great delivery speed, but i don't trust buying electronics here without more reviews. fix this please. [27005]",4.0,2026-07-18T05:02:59.996731+00:00
 396,App Store,The 'frequently bought together' suggestions are rarely accurate. [45430],5.0,2026-07-18T05:30:40.996731+00:00
-397,App Store,"Listen, the app is so smooth on ios, but i wish they had better category discovery. fix this please. [47872]",5.0,2026-07-24T00:39:22.996731+00:00
-398,App Store,Price anxiety prevents me from exploring the premium categories. definitely needs work. [14880],5.0,2026-07-29T03:55:08.996731+00:00
-399,App Store,The category navigation needs a revamp. too many clicks to find what i need. definitely needs work. [22030],4.0,2026-07-20T10:47:56.996731+00:00
 400,App Store,"To be honest, it's a habit now. i don't even think, i just open blinkit and order my staples. anyone else? [31168]",4.0,2026-07-19T03:44:11.996731+00:00
-401,App Store,"Honestly, i always buy the exact same things, it's too hard to browse for new snacks. love it. [99357]",5.0,2026-07-18T19:56:34.996731+00:00
 402,App Store,"It's a habit now. i don't even think, i just open blinkit and order my staples. definitely needs work. [48640]",5.0,2026-07-26T17:00:12.996731+00:00
-403,App Store,"Honestly, i wish there was a 'discover' tab for new local brands. fix this please. [62350]",4.0,2026-07-20T17:58:07.996731+00:00
 404,App Store,"Listen, the category navigation needs a revamp. too many clicks to find what i need. [35566]",5.0,2026-07-20T07:12:41.996731+00:00
 405,App Store,"Honestly, the new print out category is a lifesaver! saved me a trip to the store. still 5 stars though. [45075]",4.0,2026-07-25T02:03:21.996731+00:00
-406,App Store,"I always buy the exact same things, it's too hard to browse for new snacks. love it. [69059]",5.0,2026-07-29T04:14:42.996731+00:00
 407,App Store,"In my opinion, why is it so hard to find fresh vegetables? the search is clunky. love it. [88406]",5.0,2026-07-21T03:30:22.996731+00:00
 408,App Store,"I love the clean interface, but i end up just reordering my last cart. [51899]",5.0,2026-07-20T11:00:18.996731+00:00
 409,App Store,"I always buy the exact same things, it's too hard to browse for new snacks. definitely needs work. [42924]",4.0,2026-07-23T13:16:16.996731+00:00
-410,App Store,"Great delivery speed, but i don't trust buying electronics here without more reviews. definitely needs work. [47299]",5.0,2026-07-20T11:28:05.996731+00:00
-411,App Store,"Okay so, the new print out category is a lifesaver! saved me a trip to the store. [85723]",3.0,2026-07-19T00:02:35.996731+00:00
 412,App Store,"Okay so, i always buy the exact same things, it's too hard to browse for new snacks. anyone else? [48512]",4.0,2026-07-18T21:14:17.996731+00:00
-413,App Store,"In my opinion, customer support was very helpful when my eggs arrived broken. definitely needs work. [25248]",4.0,2026-07-28T09:46:24.996731+00:00
 414,App Store,"Honestly, blinkit is my absolute go-to for groceries. super reliable on my iphone. just my two cents. [38716]",3.0,2026-07-20T12:07:10.996731+00:00
 415,App Store,"In my opinion, the app is so smooth on ios, but i wish they had better category discovery. fix this please. [62006]",5.0,2026-07-27T14:34:27.996731+00:00
 416,App Store,"I feel like fast delivery, but i stick to familiar brands because of trust deficit. love it. [70369]",4.0,2026-07-24T16:38:27.996731+00:00
 417,App Store,"I feel like i love the clean interface, but i end up just reordering my last cart. definitely needs work. [55078]",4.0,2026-07-24T09:25:05.996731+00:00
 418,App Store,"Okay so, fast delivery, but i stick to familiar brands because of trust deficit. love it. [11672]",5.0,2026-07-22T23:33:50.996731+00:00
-419,App Store,"Listen, why is it so hard to find fresh vegetables? the search is clunky. just my two cents. [62519]",4.0,2026-07-20T00:08:59.996731+00:00
-420,App Store,"In my opinion, great delivery speed, but i don't trust buying electronics here without more reviews. please improve this. [51624]",5.0,2026-07-18T16:31:17.996731+00:00
 421,App Store,"To be honest, the app is so smooth on ios, but i wish they had better category discovery. please improve this. [24674]",5.0,2026-07-25T01:06:57.996731+00:00
 422,App Store,"Great delivery speed, but i don't trust buying electronics here without more reviews. love it. [45450]",4.0,2026-07-28T21:31:14.996731+00:00
 423,App Store,"Okay so, blinkit is my absolute go-to for groceries. super reliable on my iphone. anyone else? [45482]",5.0,2026-07-18T07:39:20.996731+00:00
-424,App Store,The 'frequently bought together' suggestions are rarely accurate. definitely needs work. [76036],4.0,2026-07-24T00:01:31.996731+00:00
 425,App Store,"In my opinion, it's a habit now. i don't even think, i just open blinkit and order my staples. please improve this. [77881]",4.0,2026-07-27T21:27:14.996731+00:00
 426,App Store,"Honestly, the 'frequently bought together' suggestions are rarely accurate. please improve this. [27099]",3.0,2026-07-26T16:01:46.996731+00:00
 427,App Store,I feel like why is it so hard to find fresh vegetables? the search is clunky. still 5 stars though. [18263],4.0,2026-07-23T06:21:03.996731+00:00
-428,App Store,The 'frequently bought together' suggestions are rarely accurate. fix this please. [92610],4.0,2026-07-22T14:47:31.996731+00:00
 429,App Store,"Listen, it's a habit now. i don't even think, i just open blinkit and order my staples. fix this please. [20428]",3.0,2026-07-24T16:38:39.996731+00:00
 430,App Store,I feel like i wish there was a 'discover' tab for new local brands. definitely needs work. [38098],4.0,2026-07-19T14:30:46.996731+00:00
 431,App Store,"Honestly, great delivery speed, but i don't trust buying electronics here without more reviews. just my two cents. [11085]",5.0,2026-07-18T09:41:26.996731+00:00
 432,App Store,"To be honest, why is it so hard to find fresh vegetables? the search is clunky. just my two cents. [43825]",5.0,2026-07-28T17:06:54.996731+00:00
 433,App Store,"In my opinion, great delivery speed, but i don't trust buying electronics here without more reviews. [13134]",4.0,2026-07-27T23:07:35.996731+00:00
-434,App Store,"Honestly, the 'frequently bought together' suggestions are rarely accurate. fix this please. [53970]",3.0,2026-07-25T16:06:01.996731+00:00
 435,App Store,"To be honest, customer support was very helpful when my eggs arrived broken. definitely needs work. [87017]",4.0,2026-07-23T18:14:36.996731+00:00
-436,App Store,"Honestly, fast delivery, but i stick to familiar brands because of trust deficit. please improve this. [32780]",4.0,2026-07-24T13:26:25.996731+00:00
-437,App Store,"Okay so, customer support was very helpful when my eggs arrived broken. definitely needs work. [15236]",3.0,2026-07-24T04:16:48.996731+00:00
-438,App Store,"Honestly, i always buy the exact same things, it's too hard to browse for new snacks. please improve this. [68684]",4.0,2026-07-27T16:34:44.996731+00:00
 439,App Store,"Okay so, great delivery speed, but i don't trust buying electronics here without more reviews. love it. [81544]",3.0,2026-07-26T10:32:50.996731+00:00
-440,App Store,Price anxiety prevents me from exploring the premium categories. love it. [95967],5.0,2026-07-22T01:01:02.996731+00:00
 441,App Store,"I feel like great delivery speed, but i don't trust buying electronics here without more reviews. love it. [17975]",5.0,2026-07-19T06:04:15.996731+00:00
 442,App Store,"Honestly, customer support was very helpful when my eggs arrived broken. still 5 stars though. [55455]",5.0,2026-07-19T13:02:41.996731+00:00
 443,App Store,"I feel like fast delivery, but i stick to familiar brands because of trust deficit. fix this please. [99404]",4.0,2026-07-18T17:26:49.996731+00:00
-444,App Store,"Honestly, why is it so hard to find fresh vegetables? the search is clunky. just my two cents. [23456]",3.0,2026-07-29T08:52:24.996731+00:00
-445,App Store,"In my opinion, the category navigation needs a revamp. too many clicks to find what i need. fix this please. [77532]",4.0,2026-07-24T22:34:49.996731+00:00
 446,App Store,"Listen, the category navigation needs a revamp. too many clicks to find what i need. definitely needs work. [42547]",3.0,2026-07-20T09:29:04.996731+00:00
 447,App Store,"Okay so, great delivery speed, but i don't trust buying electronics here without more reviews. definitely needs work. [18293]",4.0,2026-07-23T07:00:35.996731+00:00
 448,App Store,"To be honest, i wish there was a 'discover' tab for new local brands. please improve this. [26571]",4.0,2026-07-25T02:35:57.996731+00:00
-449,App Store,"To be honest, i love the clean interface, but i end up just reordering my last cart. fix this please. [55887]",3.0,2026-07-22T01:56:34.996731+00:00
-450,App Store,I tried ordering makeup but the descriptions are too sparse. [38102],5.0,2026-07-21T10:57:40.996731+00:00
 451,Play Store,"I,m very happy with the blinkit service",5.0,2026-07-28T16:56:29
 452,Play Store,good services but pipe not given tetra pack,5.0,2026-07-28T16:55:50
 453,Play Store,address option is very difficult to put the address always asking to put the address correctly,1.0,2026-07-28T16:48:19
@@ -837,20 +735,17 @@ review_id,source,text,rating,date
 836,Reddit,"Unpopular opinion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [15598]",,1784627646.024231
 837,Reddit,So I was thinking... I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Share your experiences. [54571],,1785065216.024231
 838,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Thoughts? [40935],,1785255139.024231
-839,Reddit,Unpopular opinion: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Am I crazy? [10702],,1784580608.024231
 840,Reddit,"Question for everyone: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Anyone else agree? [23745]",,1784526066.024231
 841,Reddit,So I was thinking... Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Thoughts? [47227],,1785096733.024231
 842,Reddit,"So I was thinking... Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Let me know below. [73598]",,1785307512.024231
 843,Reddit,Question for everyone: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Let me know below. [14560],,1785281314.024231
 844,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Thoughts? [56191]",,1784569954.024231
 845,Reddit,So I was thinking... I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [52121],,1784835856.024231
-846,Reddit,So I was thinking... I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Share your experiences. [73912],,1784975129.024231
 847,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Am I crazy? [59608]",,1784691243.024231
 848,Reddit,"Question for everyone: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Share your experiences. [58868]",,1784842454.024231
 849,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [36258],,1785312364.024231
 850,Reddit,Unpopular opinion: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Let me know below. [74051],,1784925284.024231
 851,Reddit,"So I was thinking... Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Let me know below. [80083]",,1784466551.024231
-852,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Thoughts? [30038]",,1785001911.024231
 853,Reddit,Unpopular opinion: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Let me know below. [91842],,1784836956.024231
 854,Reddit,Rant: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Thoughts? [33333],,1784494009.024231
 855,Reddit,Unpopular opinion: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Am I crazy? [36003],,1784871907.024231
@@ -891,19 +786,15 @@ review_id,source,text,rating,date
 890,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Share your experiences. [75201],,1784596877.024231
 891,Reddit,DAE The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! [52635],,1784364742.024231
 892,Reddit,Discussion: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. [46158],,1784483781.024231
-893,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Anyone else agree? [26628]",,1785316002.024231
 894,Reddit,"Question for everyone: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Am I crazy? [19955]",,1784913135.024231
 895,Reddit,"Discussion: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Let me know below. [23734]",,1784733199.024231
 896,Reddit,Question for everyone: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Thoughts? [84588],,1784742517.024231
-897,Reddit,"Question for everyone: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Anyone else agree? [86633]",,1784473574.024231
 898,Reddit,Discussion: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. [82770],,1785023462.024231
 899,Reddit,The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Share your experiences. [48021],,1784482818.024231
 900,Reddit,Rant: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Thoughts? [19698],,1784968336.024231
 901,Reddit,Unpopular opinion: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Anyone else agree? [94147],,1784436297.024231
 902,Reddit,DAE Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Let me know below. [48731],,1784702751.024231
 903,Reddit,"Discussion: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Anyone else agree? [92084]",,1785225232.024231
-904,Reddit,So I was thinking... I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Let me know below. [32075],,1785027527.024231
-905,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Share your experiences. [45757]",,1784659649.024231
 906,Reddit,Discussion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Share your experiences. [40169],,1784929993.024231
 907,Reddit,"The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Thoughts? [11774]",,1784957095.024231
 908,Reddit,Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Share your experiences. [97100],,1785258601.024231
@@ -912,7 +803,6 @@ review_id,source,text,rating,date
 911,Reddit,"Question for everyone: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Am I crazy? [89261]",,1784718111.024231
 912,Reddit,"Discussion: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Let me know below. [60345]",,1785254518.024231
 913,Reddit,Rant: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Thoughts? [58178],,1784937634.024231
-914,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. [36890]",,1784740433.024231
 915,Reddit,Discussion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Am I crazy? [45031],,1784825608.024231
 916,Reddit,"Rant: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Am I crazy? [73804]",,1784666841.024231
 917,Reddit,"Discussion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Share your experiences. [12669]",,1784594258.024231
@@ -920,7 +810,6 @@ review_id,source,text,rating,date
 919,Reddit,"Discussion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Am I crazy? [48574]",,1785282515.024231
 920,Reddit,"Question for everyone: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [49904]",,1784441227.024231
 921,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Thoughts? [91814],,1784625465.024231
-922,Reddit,"Rant: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Let me know below. [57811]",,1785302665.024231
 923,Reddit,"Rant: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [15956]",,1785235211.024231
 924,Reddit,"So I was thinking... Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Let me know below. [74277]",,1785175455.024231
 925,Reddit,"Rant: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Let me know below. [74350]",,1784869809.024231
@@ -941,7 +830,6 @@ review_id,source,text,rating,date
 940,Reddit,"So I was thinking... What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [94071]",,1784622034.024231
 941,Reddit,Discussion: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Am I crazy? [52134],,1785132843.024231
 942,Reddit,So I was thinking... I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Anyone else agree? [27841],,1785304484.024231
-943,Reddit,"So I was thinking... Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Am I crazy? [73865]",,1784385197.024231
 944,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. [75245],,1785114683.024231
 945,Reddit,So I was thinking... I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Am I crazy? [61135],,1784820733.024231
 946,Reddit,So I was thinking... Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Thoughts? [99318],,1784897684.024231
@@ -949,16 +837,13 @@ review_id,source,text,rating,date
 948,Reddit,Unpopular opinion: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? [11732],,1784417687.024231
 949,Reddit,"DAE Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Anyone else agree? [94376]",,1785274005.024231
 950,Reddit,"DAE Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Am I crazy? [69942]",,1784344357.024231
-951,Reddit,Rant: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Am I crazy? [20149],,1785201714.024231
 952,Reddit,"DAE Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Am I crazy? [80671]",,1785294075.024231
 953,Reddit,Discussion: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Let me know below. [24101],,1784456839.024231
-954,Reddit,"So I was thinking... They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Let me know below. [37334]",,1784425474.024231
 955,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [47513]",,1784750373.024231
 956,Reddit,Question for everyone: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Let me know below. [68826],,1785203225.024231
 957,Reddit,"They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Anyone else agree? [28093]",,1784915948.024231
 958,Reddit,"So I was thinking... Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Am I crazy? [12062]",,1784486233.024231
 959,Reddit,"Question for everyone: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. [95960]",,1784508444.024231
-960,Reddit,Unpopular opinion: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Am I crazy? [61283],,1784853306.024231
 961,Reddit,So I was thinking... The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Share your experiences. [13622],,1784747519.024231
 962,Reddit,"Discussion: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Thoughts? [12218]",,1785040432.024231
 963,Reddit,"Question for everyone: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [92849]",,1784934460.024231
@@ -982,7 +867,6 @@ review_id,source,text,rating,date
 981,Reddit,"They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. [31634]",,1784511095.024231
 982,Reddit,DAE I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Let me know below. [74599],,1785142527.024231
 983,Reddit,Question for everyone: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Anyone else agree? [67991],,1784333917.024231
-984,Reddit,Unpopular opinion: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Share your experiences. [97380],,1785281509.024231
 985,Reddit,"Unpopular opinion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [54229]",,1784464197.024231
 986,Reddit,So I was thinking... Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Let me know below. [14388],,1785181074.024231
 987,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? [74867],,1785207725.024231
@@ -994,21 +878,16 @@ review_id,source,text,rating,date
 993,Reddit,Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Am I crazy? [82721],,1784944894.024231
 994,Reddit,"Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Am I crazy? [37992]",,1784566290.024231
 995,Reddit,Rant: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Share your experiences. [50274],,1784363129.024231
-996,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Let me know below. [97472]",,1784460234.024231
 997,Reddit,DAE The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Thoughts? [39063],,1784554246.024231
-998,Reddit,Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Am I crazy? [57956],,1785236659.024231
 999,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Thoughts? [11209]",,1785269563.024231
-1000,Reddit,The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Am I crazy? [55622],,1784543260.024231
 1001,Reddit,"So I was thinking... Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Anyone else agree? [25847]",,1784618714.024231
 1002,Reddit,Question for everyone: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Am I crazy? [25563],,1784948544.024231
 1003,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Share your experiences. [96133],,1784771707.024231
-1004,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Let me know below. [92836],,1785132808.024231
 1005,Reddit,Unpopular opinion: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Anyone else agree? [70947],,1784937552.024231
 1006,Reddit,"Discussion: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Thoughts? [52529]",,1784918133.024231
 1007,Reddit,DAE Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Let me know below. [25505],,1784549761.024231
 1008,Reddit,So I was thinking... I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. [96926],,1784362493.024231
 1009,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. [78736]",,1784568375.024231
-1010,Reddit,Unpopular opinion: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Am I crazy? [57787],,1785133446.024231
 1011,Reddit,So I was thinking... I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Let me know below. [30883],,1784787346.024231
 1012,Reddit,DAE Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. [69273],,1784656706.024231
 1013,Reddit,Rant: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Share your experiences. [81554],,1784859521.024231
@@ -1016,152 +895,90 @@ review_id,source,text,rating,date
 1015,Reddit,Unpopular opinion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [83982],,1784727137.024231
 1016,Reddit,"So I was thinking... They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Am I crazy? [34782]",,1785050187.024231
 1017,Reddit,DAE I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Thoughts? [28752],,1784646697.024231
-1018,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [62819]",,1784708181.024231
 1019,Reddit,"Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Am I crazy? [29021]",,1784875850.024231
-1020,Reddit,Rant: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Thoughts? [78172],,1784873202.024231
 1021,Reddit,"DAE Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Anyone else agree? [52723]",,1784728495.024231
 1022,Reddit,So I was thinking... Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Let me know below. [80268],,1785199027.024231
 1023,Reddit,So I was thinking... Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Anyone else agree? [77319],,1784788722.024231
 1024,Reddit,So I was thinking... I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Share your experiences. [55024],,1784417779.024231
-1025,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Anyone else agree? [57916]",,1784517705.024231
 1026,Reddit,"DAE The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Share your experiences. [96959]",,1784682381.024231
 1027,Reddit,"Discussion: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Share your experiences. [74497]",,1784980252.024231
 1028,Reddit,"DAE Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Thoughts? [53838]",,1785237859.024231
-1029,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. [80507],,1784480349.024231
 1030,Reddit,"Discussion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [86763]",,1785179307.024231
-1031,Reddit,Unpopular opinion: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Thoughts? [12289],,1785284715.024231
 1032,Reddit,Rant: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Let me know below. [60116],,1784452599.024231
 1033,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Share your experiences. [86714]",,1784677018.024231
 1034,Reddit,"DAE Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [55556]",,1784758578.024231
-1035,Reddit,So I was thinking... Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Let me know below. [78161],,1785021647.024231
-1036,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Anyone else agree? [72635]",,1785142027.024231
 1037,Reddit,Unpopular opinion: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. [14390],,1784958816.024231
 1038,Reddit,"Rant: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Thoughts? [16217]",,1784904503.024231
 1039,Reddit,"So I was thinking... What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [83057]",,1784610029.024231
-1040,Reddit,Discussion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Share your experiences. [84777],,1784550821.024231
 1041,Reddit,DAE Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Anyone else agree? [67745],,1784744213.024231
 1042,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Let me know below. [59487],,1785217664.024231
-1043,Reddit,"Discussion: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Am I crazy? [39721]",,1784464314.024231
 1044,Reddit,"So I was thinking... Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Thoughts? [18744]",,1784972101.024231
 1045,Reddit,"Unpopular opinion: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Thoughts? [94711]",,1784609166.024231
-1046,Reddit,Discussion: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Anyone else agree? [29816],,1785215001.024231
 1047,Reddit,DAE I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Share your experiences. [45389],,1785058472.024231
-1048,Reddit,"Question for everyone: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Share your experiences. [74184]",,1784776946.024231
 1049,Reddit,Discussion: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Let me know below. [37819],,1785296648.024231
-1050,Reddit,So I was thinking... Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Thoughts? [72435],,1784871045.024231
 1051,Reddit,"DAE Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Anyone else agree? [96282]",,1784941148.024231
 1052,Reddit,Question for everyone: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. [79342],,1784897380.024231
-1053,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. [20514]",,1784922078.024231
 1054,Reddit,Rant: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Share your experiences. [52458],,1784634250.024231
-1055,Reddit,Question for everyone: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Share your experiences. [67255],,1784805862.024231
 1056,Reddit,DAE I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Thoughts? [50598],,1784839652.024231
 1057,Reddit,"So I was thinking... Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Share your experiences. [15043]",,1784519334.024231
-1058,Reddit,Unpopular opinion: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Anyone else agree? [99556],,1785010803.024231
 1059,Reddit,"Question for everyone: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Let me know below. [40340]",,1784599291.024231
 1060,Reddit,DAE Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Share your experiences. [33188],,1784774294.024231
 1061,Reddit,"So I was thinking... Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Share your experiences. [57742]",,1785224267.024231
 1062,Reddit,"DAE Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Am I crazy? [91039]",,1785235436.024231
-1063,Reddit,"Rant: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Am I crazy? [38590]",,1785086017.024231
-1064,Reddit,"Rant: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Thoughts? [50502]",,1784558052.024231
-1065,Reddit,"Discussion: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Am I crazy? [37502]",,1784729960.024231
 1066,Reddit,Question for everyone: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Thoughts? [25490],,1784702163.024231
 1067,Reddit,Unpopular opinion: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Share your experiences. [56926],,1785320026.024231
-1068,Reddit,"Question for everyone: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Share your experiences. [81687]",,1784590341.024231
 1069,Reddit,"Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Thoughts? [88364]",,1784979082.024231
 1070,Reddit,"Question for everyone: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Am I crazy? [61389]",,1784419679.024231
 1071,Reddit,"Discussion: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Anyone else agree? [44267]",,1785275422.024231
-1072,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Anyone else agree? [54813]",,1784897115.024231
 1073,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Share your experiences. [67537]",,1785094656.024231
 1074,Reddit,So I was thinking... I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Am I crazy? [71027],,1785270261.024231
-1075,Reddit,So I was thinking... I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [10717],,1785319278.024231
 1076,Reddit,Unpopular opinion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Share your experiences. [99411],,1785276603.024231
-1077,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Let me know below. [76384],,1785260081.024231
 1078,Reddit,Rant: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Let me know below. [38089],,1785195433.024231
 1079,Reddit,"Question for everyone: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. [48287]",,1785096882.024231
 1080,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [29661]",,1785141540.024231
-1081,Reddit,"Rant: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [72820]",,1784617850.024231
 1082,Reddit,DAE I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Share your experiences. [87484],,1784699438.024231
 1083,Reddit,"DAE Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. [41960]",,1784937202.024231
 1084,Reddit,"So I was thinking... Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Let me know below. [24519]",,1784880234.024231
 1085,Reddit,DAE Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Thoughts? [37701],,1784737735.024231
-1086,Reddit,"Unpopular opinion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [88798]",,1784906673.024231
 1087,Reddit,"Rant: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Share your experiences. [44490]",,1785296608.024231
 1088,Reddit,"Rant: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. [64225]",,1784941468.024231
-1089,Reddit,"DAE Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Am I crazy? [20947]",,1784805053.024231
 1090,Reddit,"So I was thinking... They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Anyone else agree? [22069]",,1784842922.024231
 1091,Reddit,"Question for everyone: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. [67021]",,1784424178.024231
-1092,Reddit,"Rant: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Share your experiences. [45472]",,1784327139.024231
-1093,Reddit,"Unpopular opinion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [21900]",,1785124713.024231
-1094,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Thoughts? [29731],,1784381519.024231
-1095,Reddit,Rant: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Am I crazy? [55516],,1784575992.024231
 1096,Reddit,"Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. [36401]",,1785010704.024231
 1097,Reddit,"DAE Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Thoughts? [15673]",,1785053140.024231
 1098,Reddit,Discussion: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Share your experiences. [13524],,1784765070.024231
 1099,Reddit,So I was thinking... I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Share your experiences. [42655],,1784982892.024231
-1100,Reddit,Unpopular opinion: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Anyone else agree? [45145],,1784911062.024231
 1101,Reddit,"Rant: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Let me know below. [13297]",,1785283760.024231
 1102,Reddit,Question for everyone: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Anyone else agree? [21955],,1784736439.024231
-1103,Reddit,"Question for everyone: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Let me know below. [13795]",,1785128988.024231
-1104,Reddit,"Unpopular opinion: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Let me know below. [12247]",,1784754558.024231
 1105,Reddit,"DAE The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Anyone else agree? [66223]",,1785161714.024231
 1106,Reddit,Rant: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Anyone else agree? [70779],,1784770538.024231
 1107,Reddit,"Discussion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. [19218]",,1785197503.024231
 1108,Reddit,"Unpopular opinion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. [61023]",,1785143717.024231
-1109,Reddit,Discussion: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Share your experiences. [24222],,1785002715.024231
 1110,Reddit,DAE Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. [99089],,1784542111.024231
-1111,Reddit,"Unpopular opinion: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Let me know below. [73726]",,1785266139.024231
-1112,Reddit,"Discussion: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Share your experiences. [88184]",,1785164433.024231
 1113,Reddit,"Discussion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Am I crazy? [12702]",,1785195946.024231
 1114,Reddit,"Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. [21525]",,1785205000.024231
-1115,Reddit,"So I was thinking... What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [30606]",,1784917455.024231
 1116,Reddit,So I was thinking... Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Am I crazy? [16243],,1784511480.024231
-1117,Reddit,"Question for everyone: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. [79539]",,1784747086.024231
-1118,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [41014],,1785191999.024231
-1119,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Let me know below. [84339],,1784504876.024231
-1120,Reddit,Question for everyone: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Share your experiences. [57280],,1784602409.024231
-1121,Reddit,"DAE Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. [14752]",,1784970944.024231
-1122,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? [10208],,1784401770.024231
-1123,Reddit,"DAE Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Anyone else agree? [92955]",,1785307853.024231
 1124,Reddit,Unpopular opinion: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Let me know below. [97833],,1784774645.024231
-1125,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [89911]",,1784770639.024231
-1126,Reddit,Question for everyone: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. [42737],,1784660261.024231
 1127,Reddit,Question for everyone: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [51398],,1784495520.024231
-1128,Reddit,"DAE What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [15859]",,1785054526.024231
 1129,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Anyone else agree? [24005],,1784761033.024231
 1130,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Thoughts? [68299]",,1784997434.024231
 1131,Reddit,"Unpopular opinion: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Anyone else agree? [30579]",,1785019183.024231
 1132,Reddit,"Rant: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Share your experiences. [98902]",,1785236720.024231
 1133,Reddit,Unpopular opinion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Anyone else agree? [21428],,1784660649.024231
 1134,Reddit,"Unpopular opinion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Am I crazy? [67296]",,1785298282.024231
-1135,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Anyone else agree? [70978],,1784875975.024231
-1136,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Share your experiences. [44993]",,1784491506.024231
 1137,Reddit,DAE I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Thoughts? [45521],,1784505115.024231
-1138,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Thoughts? [21875]",,1784472046.024231
 1139,Reddit,Unpopular opinion: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Thoughts? [16180],,1785011257.024231
 1140,Reddit,DAE I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Let me know below. [60355],,1785260090.024231
-1141,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Am I crazy? [20448]",,1784731001.024231
 1142,Reddit,"The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Am I crazy? [40568]",,1784618805.024231
 1143,Reddit,So I was thinking... Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Am I crazy? [51906],,1784403573.024231
-1144,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Thoughts? [20842],,1784768801.024231
 1145,Reddit,"Question for everyone: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [77237]",,1785012862.024231
-1146,Reddit,"The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Let me know below. [66588]",,1785014961.024231
-1147,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [27877],,1785164196.024231
 1148,Reddit,"So I was thinking... Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Thoughts? [92766]",,1784971705.024231
 1149,Reddit,"Discussion: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Anyone else agree? [84157]",,1784874300.024231
-1150,Reddit,"So I was thinking... Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Share your experiences. [37902]",,1785316250.024231
-1151,Reddit,"Question for everyone: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Let me know below. [88337]",,1785240923.024231
 1152,Reddit,Unpopular opinion: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Am I crazy? [11746],,1785136475.024231
-1153,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Thoughts? [85054]",,1784879216.024231
-1154,Reddit,So I was thinking... The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Share your experiences. [69694],,1784788157.024231
 1155,Reddit,"DAE The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Am I crazy? [78653]",,1784772613.024231
-1156,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Anyone else agree? [32460]",,1784429799.024231
 1157,Reddit,Rant: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. [57449],,1784753502.024231
-1158,Reddit,DAE I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. [85641],,1785033763.024231
 1159,Reddit,"Question for everyone: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Am I crazy? [35983]",,1784707503.024231
 1160,Reddit,"Unpopular opinion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Anyone else agree? [83923]",,1785220096.024231
-1161,Reddit,"Question for everyone: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Share your experiences. [55125]",,1784373718.024231
-1162,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [22051]",,1785134275.024231
-1163,Reddit,DAE I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Let me know below. [13511],,1784709970.024231
 1164,Reddit,DAE I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Anyone else agree? [81345],,1784793779.024231
 1165,Reddit,"Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Thoughts? [46168]",,1785259747.024231
 1166,Reddit,Discussion: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Anyone else agree? [42601],,1784837294.024231
@@ -1170,36 +987,19 @@ review_id,source,text,rating,date
 1169,Reddit,"Discussion: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. [10386]",,1784617534.024231
 1170,Reddit,"Unpopular opinion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [70998]",,1785014280.024231
 1171,Reddit,Question for everyone: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Share your experiences. [75452],,1784375679.024231
-1172,Reddit,"Discussion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. [25624]",,1784473535.024231
 1173,Reddit,"DAE They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Let me know below. [55954]",,1784465977.024231
 1174,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Let me know below. [28968],,1784846685.024231
-1175,Reddit,The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Am I crazy? [70780],,1784802617.024231
 1176,Reddit,Rant: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! [34418],,1784931625.024231
-1177,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Thoughts? [89523],,1784658304.024231
 1178,Reddit,"They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Thoughts? [92334]",,1784815629.024231
-1179,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Share your experiences. [46316],,1785121627.024231
 1180,Reddit,I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Am I crazy? [67534],,1785049216.024231
-1181,Reddit,Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Share your experiences. [10575],,1784938216.024231
-1182,Reddit,Question for everyone: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [58039],,1784830013.024231
 1183,Reddit,Rant: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Share your experiences. [78002],,1784922296.024231
-1184,Reddit,Question for everyone: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Am I crazy? [42863],,1784547087.024231
-1185,Reddit,Unpopular opinion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Am I crazy? [21908],,1784604726.024231
-1186,Reddit,DAE Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Let me know below. [76031],,1784454120.024231
-1187,Reddit,So I was thinking... Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Anyone else agree? [66207],,1784878948.024231
 1188,Reddit,DAE Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Share your experiences. [67178],,1785259955.024231
 1189,Reddit,"They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Share your experiences. [10579]",,1784654663.024231
 1190,Reddit,"Discussion: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Am I crazy? [16952]",,1784823613.024231
-1191,Reddit,Discussion: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Anyone else agree? [25430],,1784625334.024231
-1192,Reddit,DAE I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Am I crazy? [51731],,1785248728.024231
 1193,Reddit,"Rant: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Am I crazy? [34057]",,1784858784.024231
 1194,Reddit,Discussion: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Anyone else agree? [98447],,1784680017.024231
-1195,Reddit,I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Anyone else agree? [63141],,1784825396.024231
 1196,Reddit,"Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Am I crazy? [24876]",,1784548154.024231
-1197,Reddit,Question for everyone: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Am I crazy? [27667],,1785093838.024231
-1198,Reddit,Question for everyone: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Share your experiences. [26046],,1785190993.024231
-1199,Reddit,Unpopular opinion: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Am I crazy? [27267],,1784651932.024231
 1200,Reddit,"Unpopular opinion: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Anyone else agree? [10727]",,1785295309.024231
-1201,Reddit,DAE Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. [58678],,1784668850.024231
 1202,Reddit,"Discussion: Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Anyone else agree? [42189]",,1785023336.024231
 1203,Reddit,"Unpopular opinion: Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Am I crazy? [41398]",,1784577923.024231
 1204,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Am I crazy? [45904]",,1785086632.024231
@@ -1208,16 +1008,8 @@ review_id,source,text,rating,date
 1207,Reddit,So I was thinking... I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Anyone else agree? [96033],,1784395956.024231
 1208,Reddit,"Rant: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Share your experiences. [99640]",,1784517994.024231
 1209,Reddit,"Unpopular opinion: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Thoughts? [48113]",,1784618030.024231
-1210,Reddit,Discussion: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Let me know below. [83823],,1785323345.024231
-1211,Reddit,"Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Anyone else agree? [87917]",,1784433568.024231
-1212,Reddit,Discussion: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Anyone else agree? [62394],,1785177423.024231
-1213,Reddit,"Rant: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Let me know below. [65172]",,1785112560.024231
-1214,Reddit,I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Am I crazy? [52083],,1785071264.024231
-1215,Reddit,"So I was thinking... Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. Thoughts? [63918]",,1784969340.024231
 1216,Reddit,Rant: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Thoughts? [38137],,1784360507.024231
 1217,Reddit,"Unpopular opinion: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Let me know below. [64906]",,1785186309.024231
-1218,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [77040],,1784392469.024231
-1219,Reddit,"Question for everyone: The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Anyone else agree? [29123]",,1785004151.024231
 1220,Reddit,Unpopular opinion: I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. Anyone else agree? [80214],,1784416067.024231
 1221,Reddit,"Rant: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Thoughts? [76955]",,1784471271.024231
 1222,Reddit,Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Thoughts? [96836],,1784570779.024231
@@ -1233,44 +1025,24 @@ review_id,source,text,rating,date
 1232,Reddit,Question for everyone: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? [16297],,1785301917.024231
 1233,Reddit,"Unpopular opinion: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Thoughts? [69011]",,1784464057.024231
 1234,Reddit,The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Thoughts? [84413],,1784857820.024231
-1235,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Am I crazy? [25961],,1784798393.024231
-1236,Reddit,Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Am I crazy? [51962],,1784452193.024231
 1237,Reddit,"Discussion: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Anyone else agree? [63670]",,1784705539.024231
-1238,Reddit,"DAE Honestly I would buy more from new categories if they had a 'frequently bought together' that made sense, instead of just pushing my usual staples. Let me know below. [56398]",,1785186768.024231
 1239,Reddit,So I was thinking... I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Anyone else agree? [79983],,1784814150.024231
 1240,Reddit,Discussion: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. [97250],,1784791785.024231
 1241,Reddit,Rant: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Anyone else agree? [74836],,1784757792.024231
-1242,Reddit,So I was thinking... Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Let me know below. [75419],,1784604787.024231
 1243,Reddit,Rant: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Thoughts? [72328],,1784754632.024231
 1244,Reddit,"Rant: They really need to improve the category navigation. When I want to explore home goods, I get overwhelmed by irrelevant items. Needs better filtering. Am I crazy? [34796]",,1784847023.024231
 1245,Reddit,"Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. [85050]",,1784913504.024231
-1246,Reddit,"Discussion: What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Anyone else agree? [13502]",,1785009312.024231
 1247,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. [27263],,1785214559.024231
 1248,Reddit,"Rant: Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. Thoughts? [91434]",,1784543049.024231
 1249,Reddit,Question for everyone: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Share your experiences. [15124],,1784401253.024231
 1250,Reddit,"Unpopular opinion: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Let me know below. [35402]",,1785307323.024231
-1251,Reddit,"So I was thinking... Tried ordering makeup from Blinkit today. I usually just buy milk and eggs but decided to try the beauty category. Honestly impressed with the speed, but there's a serious lack of detailed product descriptions. Am I crazy? [56737]",,1784763777.024231
-1252,Reddit,"DAE The app UX is great for repeat purchases, terrible for window shopping. It's designed to get you in and out fast. Am I crazy? [85746]",,1784687106.024231
-1253,Reddit,DAE I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Let me know below. [13397],,1784563496.024231
 1254,Reddit,Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Am I crazy? [58269],,1785313836.024231
-1255,Reddit,Rant: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Thoughts? [12720],,1784842234.024231
-1256,Reddit,So I was thinking... I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Let me know below. [47172],,1784350607.024231
 1257,Reddit,Discussion: Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Let me know below. [11863],,1784338275.024231
-1258,Reddit,I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. [63184],,1784558631.024231
-1259,Reddit,Unpopular opinion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Am I crazy? [85523],,1784618004.024231
-1260,Reddit,Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. [91403],,1784406414.024231
-1261,Reddit,Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Am I crazy? [59662],,1784584620.024231
 1262,Reddit,"DAE Wish they had better trust signals for expensive items. If I'm buying a mixer grinder, I need to see more than 1 image. [59295]",,1784949009.024231
-1263,Reddit,"DAE Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. Thoughts? [11129]",,1784938816.024231
 1264,Reddit,Rant: Anyone tried the Blinkit Cafe? I'm hesitant to buy coffee from a grocery app. Am I crazy? [45876],,1785202680.024231
 1265,Reddit,DAE Habit lock-in is real! My fingers literally have muscle memory for adding my regular grocery list on Blinkit in 30 seconds. No time to browse for anything else. Anyone else agree? [70507],,1785291607.024231
-1266,Reddit,I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Thoughts? [24044],,1784377250.024231
-1267,Reddit,I want to explore the new Print out category on Blinkit but I have this weird price anxiety that they might charge way too much per page. [32774],,1784855449.024231
-1268,Reddit,"Rant: Blinkit vs Zepto for discovering new snacks? I feel like Blinkit's recommendation engine just shows me my past purchases, making it hard to find new stuff. [73597]",,1785049749.024231
 1269,Reddit,"Discussion: Just discovered the 'Pet Supplies' category on Blinkit. Absolute game-changer, no more lugging 10kg bags of dog food from the store. [57280]",,1785033856.024231
-1270,Reddit,Question for everyone: The reason I don't buy fresh produce on Blinkit is trust deficit. I need to squeeze the tomatoes myself! Let me know below. [47409],,1784736593.024231
 1271,Reddit,Unpopular opinion: I explore categories way more when I see a deep discount banner. Price anxiety goes away when it's on sale. Thoughts? [16389],,1784929921.024231
 1272,Reddit,Rant: Is anyone else using Blinkit for gifting now? The 'festival/gifting' category is actually pretty decent for last-minute stuff. Anyone else agree? [96430],,1784670719.024231
 1273,Reddit,"What's stopping you from buying electronics on Blinkit? I feel like I can't trust buying a 10k phone without seeing it first, even though I buy groceries there daily. Anyone else agree? [48889]",,1784437014.024231
 1274,Reddit,Discussion: I just realized I order the exact same 5 things on Blinkit every single time. It's too much friction to explore new categories. Who else is stuck in this habit loop? Let me know below. [47268],,1785175187.024231
-1275,Reddit,Discussion: I can't explore new categories when I'm in a rush. I only open Blinkit when I'm desperate for 10-minute delivery of an immediate need. Share your experiences. [99846],,1784839062.024231

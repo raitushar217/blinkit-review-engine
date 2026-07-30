@@ -147,7 +147,8 @@ df = pd.concat(frames, ignore_index=True)
 df["text"] = df["text"].str.strip()
 df = df[df["text"].str.split().str.len() >= 5]
 df = df[~df["text"].str.lower().isin(["nan", "none", ""])]
-df = df.drop_duplicates(subset="text").reset_index(drop=True)
+df["clean_text"] = df["text"].str.replace(r' \[\d+\]$', '', regex=True).str.lower()
+df = df.drop_duplicates(subset="clean_text").drop(columns=["clean_text"]).reset_index(drop=True)
 df.insert(0, "review_id", range(1, len(df) + 1))
 
 # Ensure final column order
